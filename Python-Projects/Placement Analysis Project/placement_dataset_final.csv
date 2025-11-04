@@ -1,0 +1,226 @@
+Student_ID,Name,Gender,Age,Degree,Specialization,CGPA,Internship,Certifications,Projects,Soft_Skills_Score,Placement_Status,Placement_Date,Package_LPA,Company_Name
+STU001,Pooja Reddy,Male,22,BCA,AI/ML,8.12,Yes,3.0,0,5,Not Placed,,,
+STU002,Neha Kumar,Male,20,B.Tech,DS,8.14,No,1.0,6,3,Not Placed,,,
+STU003,Manish Agarwal,Male,21,MCA,DS,8.97,No,2.0,3,1,Placed,2024-09-15,10.44,Accenture
+STU004,Aditya Bansal,Female,20,BCA,AI/ML,8.94,No,4.0,6,8,Not Placed,,,
+STU005,Tanya Sharma,Male,23,BSc,AI/ML,6.24,No,3.0,2,1,Not Placed,,,
+STU006,Ishita Bansal,Male,22,B.Tech,CS,7.85,No,4.0,3,9,Not Placed,,,
+STU007,Priya Bansal,Male,21,BCA,DS,6.71,No,2.0,4,6,Placed,2022-10-17,12.86,HCL
+STU008,Rahul Sharma,Male,20,BSc,AI/ML,5.64,No,4.0,3,3,Placed,2023-10-11,7.77,Wipro
+STU009,Karan Bansal,Female,24,B.Tech,DS,6.15,No,3.0,6,1,Not Placed,,,
+STU010,Arjun Gupta,Female,24,B.Tech,CS,8.21,No,2.0,5,10,Placed,2021-10-16,11.33,Wipro
+STU011,Rahul Bansal,Female,21,BSc,CS,6.73,Yes,1.0,0,8,Not Placed,,,
+STU012,Ananya Kumar,Female,25,BSc,DS,7.92,No,5.0,5,1,Placed,2022-09-11,7.81,Google
+STU013,Ritika Verma,Female,22,BSc,DS,5.77,No,4.0,2,5,Not Placed,,,
+STU014,Aditya Singh,Female,24,B.Tech,IT,,No,2.0,5,4,Not Placed,,,
+STU015,Arjun Chopra,Female,24,B.Tech,AI/ML,9.66,Yes,4.0,5,9,Not Placed,,,
+STU016,Karan Agarwal,Male,22,BCA,AI/ML,9.61,Yes,2.0,3,5,Not Placed,,,
+STU017,Aditya Singh,Female,24,B.Tech,IT,7.88,Yes,4.0,5,10,Placed,2022-01-22,10.28,Paytm
+STU018,Rahul Singh,Male,20,BCA,DS,9.67,No,5.0,3,2,Placed,2021-09-06,14.11,HCL
+STU019,Ritika Chopra,Male,22,B.Tech,AI/ML,9.92,Yes,0.0,5,10,Placed,2021-03-14,13.07,Paytm
+STU020,Sneha Sharma,Female,23,BSc,AI/ML,9.35,Yes,0.0,2,10,Placed,2023-05-15,9.23,Google
+STU021,Tanya Verma,Female,21,MCA,AI/ML,5.27,Yes,0.0,2,3,Not Placed,,,
+STU022,Raj Kumar,Male,25,B.Tech,AI/ML,5.02,Yes,1.0,4,7,Not Placed,,,
+STU023,Rahul Agarwal,Male,23,BCA,IT,7.69,Yes,3.0,2,4,Placed,2023-07-08,14.04,Deloitte
+STU024,Raj Agarwal,Female,24,BCA,AI/ML,8.69,No,5.0,1,1,Placed,2024-05-06,8.43,HCL
+STU025,Rahul Mehta,Male,25,B.Tech,AI/ML,5.7,Yes,1.0,1,8,Placed,2024-12-20,5.12,Tech Mahindra
+STU026,Ananya Verma,Female,24,BSc,IT,9.57,Yes,4.0,3,9,Not Placed,,,
+STU027,Kabir Bansal,Male,20,BSc,IT,,Yes,2.0,6,9,Not Placed,,,
+STU028,Meera Singh,Female,20,MCA,CS,5.89,No,1.0,4,7,Not Placed,,,
+STU029,Manish Sharma,Female,25,B.Tech,CS,7.07,No,2.0,6,1,Placed,2021-01-14,4.02,Tech Mahindra
+STU030,Kabir Verma,Male,20,MCA,CS,7.98,No,3.0,1,3,Not Placed,,,
+STU031,Pooja Reddy,Female,23,MCA,CS,6.05,Yes,5.0,6,6,Placed,2022-09-13,13.78,Cognizant
+STU032,Rohan Singh,Male,20,B.Tech,DS,5.18,No,4.0,3,4,Placed,2024-06-05,8.66,Capgemini
+STU033,Aditya Gupta,Male,25,MCA,CS,8.88,Yes,1.0,0,2,Placed,2024-10-22,8.44,Microsoft
+STU034,Ishita Singh,Male,23,MCA,IT,7.0,Yes,0.0,1,9,Not Placed,,,
+STU035,Neha Bansal,Female,24,B.Tech,IT,5.91,No,1.0,5,9,Placed,2024-05-09,13.34,TCS
+STU036,Tanya Bansal,Male,25,MCA,DS,6.35,Yes,2.0,5,7,Not Placed,,,
+STU037,Ananya Reddy,Male,22,MCA,IT,5.13,No,1.0,6,4,Not Placed,,,
+STU038,Rohan Chopra,Male,24,MCA,DS,8.29,Yes,3.0,1,5,Placed,2023-11-03,3.33,Paytm
+STU039,Vikram Agarwal,Male,24,BSc,CS,8.36,No,3.0,5,10,Placed,2021-04-26,3.24,Amazon
+STU040,Manish Verma,Male,23,BSc,AI/ML,5.89,No,0.0,1,4,Placed,2024-04-23,10.83,IBM
+STU041,Aditya Reddy,Male,24,B.Tech,AI/ML,6.22,No,3.0,4,6,Not Placed,,,
+STU042,Raj Agarwal,Female,23,BCA,DS,9.15,No,1.0,2,6,Not Placed,,,
+STU043,Ishita Bansal,Male,25,BSc,CS,6.02,No,4.0,4,10,Not Placed,,,
+STU044,Simran Kumar,Male,22,BSc,DS,5.07,Yes,3.0,4,6,Not Placed,,,
+STU045,Ritika Chopra,Female,21,B.Tech,IT,5.13,Yes,5.0,4,8,Placed,2021-09-02,5.18,Flipkart
+STU046,Kabir Sharma,Male,23,BSc,IT,9.46,Yes,5.0,1,1,Placed,2024-06-02,12.81,IBM
+STU047,Priya Chopra,Female,20,BCA,DS,6.9,Yes,0.0,4,5,Not Placed,,,
+STU048,Aarav Verma,Female,21,BCA,CS,8.12,Yes,1.0,1,10,Not Placed,,,
+STU049,Pooja Mehta,Female,20,B.Tech,DS,7.18,No,4.0,1,4,Not Placed,,,
+STU050,Kabir Sharma,Male,23,MCA,DS,8.82,No,0.0,5,1,Placed,2021-08-28,4.68,HCL
+STU051,Arjun Bansal,Male,24,BCA,IT,9.47,Yes,5.0,4,8,Not Placed,,,
+STU052,Ishita Gupta,Female,24,BCA,IT,5.11,No,0.0,1,10,Placed,2024-02-10,6.22,Wipro
+STU053,Manish Singh,Female,25,B.Tech,DS,6.29,Yes,5.0,5,2,Not Placed,,,
+STU054,Ishita Gupta,Female,21,BCA,AI/ML,9.92,No,2.0,0,5,Not Placed,,,
+STU055,Ritika Singh,Female,24,MCA,DS,6.36,Yes,5.0,4,7,Placed,2023-04-23,3.22,Infosys
+STU056,Kabir Mehta,Male,23,BSc,DS,7.88,No,2.0,0,2,Placed,2023-08-12,6.29,Amazon
+STU057,Raj Gupta,Male,20,BSc,DS,9.15,No,,4,9,Not Placed,,,
+STU058,Meera Sharma,Male,22,BCA,AI/ML,5.68,No,0.0,2,7,Not Placed,,,
+STU059,Kabir Verma,Male,24,BSc,DS,7.99,Yes,1.0,2,5,Not Placed,,,
+STU060,Ritika Kumar,Male,21,MCA,AI/ML,5.88,No,2.0,3,2,Not Placed,,,
+STU061,Raj Singh,Female,24,BSc,DS,6.92,Yes,1.0,2,1,Not Placed,,,
+STU062,Arjun Bansal,Female,22,MCA,AI/ML,5.83,No,5.0,4,3,Not Placed,,,
+STU063,Arjun Bansal,Male,23,B.Tech,IT,8.02,No,2.0,2,8,Placed,2023-07-09,5.94,Flipkart
+STU064,Karan Agarwal,Male,24,BSc,IT,6.78,Yes,5.0,3,4,Not Placed,,,
+STU065,Simran Gupta,Female,25,MCA,IT,7.83,No,1.0,2,3,Not Placed,,,
+STU066,Karan Gupta,Female,24,MCA,DS,9.68,No,4.0,0,6,Placed,2021-04-22,11.79,Google
+STU067,Pooja Kumar,Male,24,MCA,AI/ML,6.31,No,0.0,0,2,Not Placed,,,
+STU068,Neha Verma,Male,23,B.Tech,DS,7.48,No,5.0,4,9,Placed,2023-01-16,10.16,Infosys
+STU069,Simran Reddy,Male,20,BSc,AI/ML,5.53,No,2.0,3,4,Not Placed,,,
+STU070,Pooja Chopra,Male,23,MCA,AI/ML,7.48,Yes,2.0,0,2,Placed,2023-11-04,11.26,Google
+STU071,Sneha Singh,Male,24,BSc,AI/ML,9.1,No,3.0,1,7,Placed,2022-11-22,12.59,HCL
+STU072,Karan Sharma,Male,23,MCA,DS,7.95,Yes,5.0,1,4,Not Placed,,,
+STU073,Kabir Bansal,Male,24,BSc,AI/ML,9.59,No,1.0,3,2,Not Placed,,,
+STU074,Ritika Verma,Female,24,MCA,DS,7.23,Yes,2.0,2,8,Placed,2023-10-19,5.22,Infosys
+STU075,Rohan Agarwal,Male,21,B.Tech,CS,8.66,Yes,2.0,5,3,Not Placed,,,
+STU076,Ananya Bansal,Male,24,MCA,DS,8.46,Yes,3.0,5,9,Placed,2022-08-10,13.19,Wipro
+STU077,Sneha Agarwal,Female,24,BCA,AI/ML,6.11,Yes,3.0,1,4,Not Placed,,,
+STU078,Tanya Verma,Female,23,MCA,DS,5.2,No,3.0,1,2,Placed,2022-05-02,11.47,Capgemini
+STU079,Neha Verma,Female,21,MCA,DS,7.84,Yes,4.0,0,5,Not Placed,,,
+STU080,Tanya Sharma,Female,24,BSc,DS,8.49,Yes,5.0,6,4,Not Placed,,,
+STU081,Ishita Chopra,Female,22,BCA,DS,9.86,Yes,1.0,1,10,Not Placed,,,
+STU082,Priya Reddy,Male,24,BSc,IT,9.31,Yes,0.0,4,6,Not Placed,,,
+STU083,Priya Verma,Male,22,B.Tech,AI/ML,9.14,No,4.0,5,2,Placed,2024-01-09,3.44,Flipkart
+STU084,Rohan Kumar,Male,21,B.Tech,IT,5.6,No,3.0,1,10,Not Placed,,,
+STU085,Ananya Reddy,Female,20,BCA,DS,6.7,No,5.0,2,8,Not Placed,,,
+STU086,Arjun Bansal,Male,25,BCA,DS,6.58,No,0.0,6,9,Not Placed,,,
+STU087,Aditya Reddy,Male,23,B.Tech,AI/ML,6.59,No,2.0,4,10,Placed,2024-06-22,10.51,Amazon
+STU088,Ishita Sharma,Male,25,MCA,CS,6.16,Yes,,3,8,Placed,2024-04-23,3.29,Paytm
+STU089,Rohan Mehta,Male,22,BCA,AI/ML,9.37,No,0.0,2,3,Placed,2024-11-10,9.35,Microsoft
+STU090,Neha Reddy,Male,25,BCA,CS,9.99,Yes,3.0,0,3,Placed,2024-01-01,7.21,Microsoft
+STU091,Arjun Gupta,Female,25,BSc,DS,7.4,Yes,1.0,3,2,Placed,2021-06-12,10.53,Paytm
+STU092,Simran Kumar,Female,21,BSc,CS,8.84,Yes,4.0,5,3,Not Placed,,,
+STU093,Pooja Singh,Male,23,MCA,IT,8.69,Yes,0.0,1,2,Not Placed,,,
+STU094,Pooja Reddy,Female,21,BSc,AI/ML,6.77,Yes,1.0,4,10,Not Placed,,,
+STU095,Aarav Mehta,Male,24,BSc,DS,,No,,0,4,Not Placed,,,
+STU096,Karan Gupta,Male,23,BCA,CS,9.94,No,2.0,1,7,Not Placed,,,
+STU097,Pooja Verma,Male,23,BCA,CS,8.4,Yes,0.0,2,4,Placed,2021-07-17,5.62,Capgemini
+STU098,Rahul Reddy,Female,25,MCA,CS,5.45,Yes,2.0,0,5,Placed,2022-03-18,8.01,Tech Mahindra
+STU099,Karan Bansal,Male,22,MCA,IT,7.34,Yes,1.0,0,7,Placed,2024-10-20,10.36,TCS
+STU100,Simran Kumar,Male,20,BSc,CS,6.16,Yes,3.0,2,9,Not Placed,,,
+STU101,Sneha Agarwal,Male,25,B.Tech,CS,8.04,Yes,2.0,6,7,Not Placed,,,
+STU102,Rahul Gupta,Female,25,BCA,DS,5.88,No,4.0,2,1,Not Placed,,,
+STU103,Manish Kumar,Female,21,B.Tech,CS,8.9,Yes,1.0,5,9,Placed,2021-01-08,7.2,TCS
+STU104,Ritika Agarwal,Female,21,BSc,CS,9.42,No,1.0,2,4,Not Placed,,,
+STU105,Arjun Mehta,Male,24,B.Tech,CS,5.87,Yes,1.0,1,9,Placed,2024-02-15,7.75,Flipkart
+STU106,Simran Mehta,Female,20,MCA,CS,5.77,No,1.0,2,10,Not Placed,,,
+STU107,Priya Singh,Female,22,MCA,IT,6.12,Yes,1.0,0,7,Placed,2022-09-12,9.44,Google
+STU108,Aarav Agarwal,Male,25,MCA,AI/ML,5.46,Yes,1.0,4,4,Not Placed,,,
+STU109,Ritika Sharma,Male,25,B.Tech,CS,5.65,Yes,1.0,6,9,Not Placed,,,
+STU110,Pooja Chopra,Male,24,BCA,IT,9.31,No,0.0,4,10,Placed,2024-11-05,12.71,Accenture
+STU111,Simran Mehta,Female,23,B.Tech,AI/ML,5.43,No,2.0,1,2,Placed,2022-10-04,7.9,Wipro
+STU112,Meera Kumar,Female,23,B.Tech,DS,8.62,Yes,4.0,2,4,Not Placed,,,
+STU113,Simran Chopra,Female,20,BCA,IT,6.1,No,5.0,5,10,Placed,2022-06-05,11.2,Infosys
+STU114,Neha Agarwal,Female,24,BCA,AI/ML,7.48,No,1.0,0,7,Not Placed,,,
+STU115,Tanya Verma,Male,20,MCA,CS,9.12,Yes,0.0,0,1,Placed,2022-04-27,7.17,HCL
+STU116,Pooja Gupta,Female,20,BCA,CS,6.34,Yes,5.0,3,3,Placed,2023-02-02,13.54,Deloitte
+STU117,Ishita Kumar,Female,25,MCA,DS,9.25,Yes,3.0,5,7,Placed,2023-04-06,13.41,Capgemini
+STU118,Raj Chopra,Male,20,BSc,AI/ML,8.49,No,3.0,4,8,Placed,2021-05-13,11.16,Wipro
+STU119,Ananya Singh,Male,25,BCA,DS,5.79,No,3.0,4,8,Not Placed,,,
+STU120,Manish Verma,Female,23,B.Tech,IT,5.15,Yes,2.0,4,4,Placed,2023-01-26,12.91,Deloitte
+STU121,Rahul Agarwal,Male,21,BCA,IT,8.72,Yes,2.0,4,1,Placed,2024-06-27,4.93,Flipkart
+STU122,Sneha Kumar,Male,24,B.Tech,AI/ML,7.54,Yes,5.0,5,6,Placed,2022-08-18,3.08,Capgemini
+STU123,Sneha Chopra,Male,20,BCA,IT,9.91,Yes,0.0,4,8,Placed,2023-10-07,10.58,Amazon
+STU124,Rohan Agarwal,Male,22,BCA,CS,7.7,Yes,4.0,5,3,Placed,2023-02-12,12.36,Microsoft
+STU125,Karan Bansal,Male,22,B.Tech,AI/ML,7.71,Yes,1.0,5,7,Not Placed,,,
+STU126,Arjun Kumar,Female,21,BSc,DS,8.16,No,5.0,5,5,Placed,2022-12-01,14.18,Microsoft
+STU127,Manish Reddy,Male,21,B.Tech,IT,8.44,Yes,3.0,1,6,Placed,2022-06-11,3.81,Wipro
+STU128,Kabir Agarwal,Female,20,B.Tech,IT,5.34,Yes,5.0,0,6,Not Placed,,,
+STU129,Meera Sharma,Male,23,MCA,DS,,Yes,3.0,3,7,Not Placed,,,
+STU130,Tanya Reddy,Male,23,BSc,IT,9.87,No,0.0,6,1,Not Placed,,,
+STU131,Aarav Agarwal,Female,20,BCA,AI/ML,,Yes,,1,2,Placed,2023-10-20,12.1,Paytm
+STU132,Ritika Sharma,Female,25,BSc,DS,6.62,Yes,0.0,0,6,Placed,2022-07-23,8.86,Cognizant
+STU133,Tanya Mehta,Female,22,BSc,CS,7.23,Yes,3.0,4,9,Not Placed,,,
+STU134,Rohan Sharma,Female,20,MCA,CS,7.13,No,5.0,5,10,Not Placed,,,
+STU135,Aditya Gupta,Male,21,BSc,AI/ML,8.97,Yes,3.0,6,2,Not Placed,,,
+STU136,Karan Chopra,Female,25,B.Tech,CS,5.41,No,1.0,2,7,Not Placed,,,
+STU137,Sneha Chopra,Male,22,MCA,DS,6.37,No,1.0,6,5,Placed,2022-12-22,14.41,Infosys
+STU138,Kabir Agarwal,Female,24,BSc,CS,9.72,No,4.0,3,9,Not Placed,,,
+STU139,Manish Singh,Female,22,BCA,DS,6.99,Yes,4.0,4,9,Placed,2021-08-06,6.29,Wipro
+STU140,Aditya Singh,Male,20,MCA,CS,9.47,No,1.0,6,3,Not Placed,,,
+STU141,Arjun Gupta,Male,23,MCA,AI/ML,5.16,No,4.0,3,1,Not Placed,,,
+STU142,Meera Reddy,Male,21,BCA,CS,9.32,Yes,2.0,6,9,Not Placed,,,
+STU143,Ananya Mehta,Female,25,MCA,DS,5.93,Yes,1.0,2,7,Placed,2024-01-13,13.42,Paytm
+STU144,Arjun Singh,Male,25,MCA,AI/ML,9.22,No,0.0,2,5,Not Placed,,,
+STU145,Raj Chopra,Male,21,BSc,AI/ML,5.66,No,2.0,2,7,Placed,2022-08-07,3.39,Paytm
+STU146,Ananya Chopra,Female,20,BSc,CS,8.98,No,5.0,4,7,Placed,2021-03-07,8.78,Paytm
+STU147,Aditya Sharma,Male,20,MCA,CS,8.43,No,5.0,1,5,Not Placed,,,
+STU148,Vikram Verma,Female,25,BCA,CS,7.46,Yes,2.0,3,10,Not Placed,,,
+STU149,Sneha Chopra,Female,22,BSc,AI/ML,6.34,Yes,2.0,0,7,Placed,2022-10-25,12.57,Accenture
+STU150,Neha Singh,Male,22,MCA,CS,5.06,Yes,3.0,1,3,Placed,2022-05-20,3.87,Amazon
+STU151,Simran Mehta,Female,23,B.Tech,DS,8.0,No,1.0,3,5,Not Placed,,,
+STU152,Manish Gupta,Male,24,B.Tech,AI/ML,,No,5.0,0,8,Placed,2023-05-21,12.36,Tech Mahindra
+STU153,Raj Mehta,Female,21,BSc,IT,5.52,Yes,4.0,3,6,Placed,2021-11-16,5.9,Capgemini
+STU154,Raj Reddy,Female,23,BCA,IT,7.49,No,5.0,5,4,Not Placed,,,
+STU155,Pooja Verma,Female,21,BSc,AI/ML,7.8,Yes,3.0,1,5,Placed,2023-11-03,3.12,Accenture
+STU156,Pooja Singh,Female,23,B.Tech,AI/ML,,No,4.0,2,8,Placed,2024-01-28,7.21,Google
+STU157,Manish Bansal,Male,23,BSc,CS,6.98,No,4.0,2,7,Placed,2022-03-07,4.59,Tech Mahindra
+STU158,Ananya Bansal,Female,21,B.Tech,IT,9.0,Yes,3.0,2,3,Not Placed,,,
+STU159,Ishita Sharma,Female,22,BSc,IT,5.52,Yes,3.0,6,2,Placed,2024-11-14,10.64,HCL
+STU160,Ananya Chopra,Female,20,BCA,IT,9.68,No,0.0,2,9,Placed,2021-11-01,3.62,Google
+STU161,Neha Singh,Female,22,BSc,CS,9.35,No,4.0,4,5,Placed,2021-01-10,11.57,Capgemini
+STU162,Vikram Verma,Female,23,BSc,AI/ML,9.07,No,2.0,6,4,Placed,2024-01-08,3.96,Accenture
+STU163,Rohan Singh,Male,24,BSc,CS,9.09,No,5.0,5,1,Not Placed,,,
+STU164,Raj Verma,Male,24,BCA,CS,7.63,Yes,0.0,5,2,Not Placed,,,
+STU165,Vikram Reddy,Male,24,B.Tech,DS,5.3,Yes,1.0,5,1,Not Placed,,,
+STU166,Ananya Gupta,Female,24,BSc,DS,9.36,Yes,4.0,5,10,Placed,2023-02-26,5.63,Infosys
+STU167,Ritika Singh,Male,22,BSc,AI/ML,5.91,No,2.0,1,1,Not Placed,,,
+STU168,Aditya Chopra,Female,21,BCA,CS,7.49,Yes,0.0,6,10,Not Placed,,,
+STU169,Rohan Gupta,Male,25,BCA,AI/ML,6.14,Yes,3.0,2,5,Not Placed,,,
+STU170,Ishita Gupta,Male,20,B.Tech,AI/ML,8.25,No,3.0,5,2,Placed,2021-01-28,5.39,Wipro
+STU171,Sneha Agarwal,Female,23,B.Tech,CS,5.15,No,2.0,1,2,Not Placed,,,
+STU172,Karan Chopra,Female,23,MCA,DS,9.34,Yes,0.0,1,1,Placed,2021-07-19,11.73,Deloitte
+STU173,Manish Chopra,Male,24,MCA,AI/ML,6.73,Yes,5.0,6,3,Not Placed,,,
+STU174,Ritika Gupta,Female,23,BCA,CS,5.2,No,5.0,2,1,Placed,2023-09-17,13.4,Microsoft
+STU175,Priya Gupta,Female,25,BSc,DS,8.63,No,5.0,5,7,Placed,2021-01-21,8.84,Paytm
+STU176,Sneha Verma,Female,23,BSc,CS,7.11,No,2.0,1,6,Not Placed,,,
+STU177,Ishita Verma,Male,24,MCA,DS,9.56,Yes,0.0,3,8,Not Placed,,,
+STU178,Kabir Chopra,Female,22,BCA,DS,8.16,Yes,0.0,3,7,Placed,2021-02-26,11.8,IBM
+STU179,Priya Mehta,Male,25,MCA,AI/ML,9.55,No,0.0,6,4,Not Placed,,,
+STU180,Arjun Verma,Female,25,B.Tech,DS,9.86,Yes,0.0,6,4,Placed,2023-06-27,5.17,Google
+STU181,Simran Verma,Female,25,BCA,CS,6.24,Yes,3.0,1,7,Placed,2023-10-07,13.45,Accenture
+STU182,Meera Reddy,Male,23,BSc,AI/ML,6.8,Yes,3.0,0,10,Placed,2024-08-22,10.12,IBM
+STU183,Rahul Kumar,Female,20,BCA,DS,9.85,No,4.0,6,3,Placed,2022-02-13,6.1,Google
+STU184,Priya Bansal,Female,24,MCA,DS,8.87,Yes,2.0,3,6,Not Placed,,,
+STU185,Vikram Kumar,Male,23,B.Tech,AI/ML,7.27,Yes,1.0,1,10,Not Placed,,,
+STU186,Pooja Kumar,Male,24,B.Tech,CS,5.85,No,4.0,3,10,Not Placed,,,
+STU187,Tanya Mehta,Female,20,BCA,CS,9.14,No,1.0,0,1,Placed,2023-03-10,8.17,Google
+STU188,Raj Kumar,Male,25,B.Tech,IT,8.53,Yes,2.0,6,8,Placed,2022-12-21,5.0,Cognizant
+STU189,Karan Singh,Female,25,BCA,DS,8.68,No,3.0,6,6,Placed,2021-12-09,10.97,Accenture
+STU190,Priya Chopra,Male,25,B.Tech,IT,9.03,Yes,2.0,3,3,Placed,2022-03-24,10.02,Cognizant
+STU191,Meera Reddy,Male,23,B.Tech,AI/ML,5.56,Yes,1.0,4,5,Placed,2023-08-23,6.24,Paytm
+STU192,Rohan Sharma,Male,22,BCA,AI/ML,9.68,No,4.0,4,6,Placed,2023-09-08,3.47,Wipro
+STU193,Rahul Gupta,Male,23,MCA,CS,9.67,No,1.0,1,6,Not Placed,,,
+STU194,Pooja Mehta,Male,24,MCA,CS,5.21,Yes,5.0,2,8,Placed,2022-01-22,4.78,Paytm
+STU195,Arjun Reddy,Male,23,B.Tech,AI/ML,5.02,Yes,4.0,6,6,Not Placed,,,
+STU196,Ritika Sharma,Female,25,BSc,AI/ML,9.34,Yes,0.0,1,9,Placed,2021-04-22,8.46,Google
+STU197,Aditya Reddy,Male,21,MCA,CS,,Yes,0.0,3,6,Placed,2021-02-02,4.68,Wipro
+STU198,Raj Verma,Male,24,BSc,AI/ML,8.52,No,3.0,3,7,Not Placed,,,
+STU199,Arjun Sharma,Female,25,BCA,CS,9.85,Yes,5.0,4,1,Placed,2023-09-04,4.13,Capgemini
+STU200,Simran Bansal,Male,22,MCA,DS,9.34,No,5.0,0,8,Placed,2022-03-24,5.13,HCL
+STU201,Tanya Mehta,Male,22,B.Tech,CS,9.72,Yes,0.0,0,1,Not Placed,,,
+STU202,Tanya Verma,Male,22,BSc,AI/ML,8.09,Yes,3.0,5,9,Placed,2022-03-08,13.43,IBM
+STU203,Raj Singh,Male,21,BCA,DS,9.65,Yes,2.0,5,2,Not Placed,,,
+STU204,Meera Singh,Female,22,B.Tech,IT,6.08,Yes,0.0,2,10,Placed,2022-06-16,10.91,Deloitte
+STU205,Arjun Bansal,Female,25,BSc,AI/ML,5.53,No,3.0,1,1,Not Placed,,,
+STU206,Neha Singh,Female,22,B.Tech,IT,5.24,No,3.0,3,8,Not Placed,,,
+STU207,Simran Chopra,Male,21,BCA,AI/ML,9.35,Yes,4.0,1,5,Placed,2021-01-28,12.39,Cognizant
+STU208,Aarav Bansal,Female,24,BSc,CS,9.39,No,4.0,4,8,Placed,2023-07-08,7.85,Paytm
+STU209,Manish Mehta,Male,23,BCA,DS,9.04,No,4.0,0,4,Placed,2022-08-06,12.15,Wipro
+STU210,Manish Bansal,Male,25,MCA,AI/ML,9.09,Yes,,6,8,Placed,2021-05-12,4.44,Accenture
+STU211,Ishita Singh,Female,23,MCA,DS,6.62,Yes,0.0,5,6,Placed,2023-12-09,7.4,IBM
+STU212,Tanya Bansal,Male,23,MCA,AI/ML,6.94,Yes,4.0,2,7,Placed,2024-06-27,8.38,Flipkart
+STU213,Pooja Chopra,Female,24,BCA,IT,6.14,No,1.0,1,2,Not Placed,,,
+STU214,Aditya Kumar,Male,21,B.Tech,CS,8.34,Yes,3.0,6,6,Placed,2024-11-16,10.43,Deloitte
+STU215,Aditya Bansal,Male,25,MCA,CS,9.32,Yes,,1,10,Placed,2022-11-17,9.23,TCS
+STU216,Manish Kumar,Male,21,B.Tech,IT,6.71,No,4.0,4,1,Not Placed,,,
+STU217,Kabir Singh,Female,24,MCA,DS,7.9,Yes,1.0,6,7,Placed,2022-10-22,9.4,Cognizant
+STU218,Raj Kumar,Female,23,BCA,IT,9.06,No,,1,2,Placed,2022-09-28,11.62,Paytm
+STU219,Rahul Reddy,Male,24,BCA,IT,5.98,No,4.0,4,1,Placed,2021-08-22,3.09,Wipro
+STU220,Priya Verma,Male,25,MCA,DS,6.22,No,0.0,5,9,Not Placed,,,
+STU133,Tanya Mehta,Female,22,BSc,CS,7.23,Yes,3.0,4,9,Not Placed,,,
+STU149,Sneha Chopra,Female,22,BSc,AI/ML,6.34,Yes,2.0,0,7,Placed,2022-10-25,12.57,Accenture
+STU094,Pooja Reddy,Female,21,BSc,AI/ML,6.77,Yes,1.0,4,10,Not Placed,,,
+STU181,Simran Verma,Female,25,BCA,CS,6.24,Yes,3.0,1,7,Placed,2023-10-07,13.45,Accenture
+STU016,Karan Agarwal,Male,22,BCA,AI/ML,9.61,Yes,2.0,3,5,Not Placed,,,

@@ -1,0 +1,221 @@
+Gender,Age,Degree,Specialization,CGPA,Internship,Certifications,Projects,Soft_Skills_Score,Placement_Status,Package_LPA,Company_Name
+Male,22,BCA,AI/ML,8.12,Yes,3.0,0,5,Not Placed,0.0,Not Applicable
+Male,20,B.TECH,DS,8.14,No,1.0,6,3,Not Placed,0.0,Not Applicable
+Male,21,MCA,DS,8.97,No,2.0,3,1,Placed,10.44,Accenture
+Female,20,BCA,AI/ML,8.94,No,4.0,6,8,Not Placed,0.0,Not Applicable
+Male,23,BSC,AI/ML,6.24,No,3.0,2,1,Not Placed,0.0,Not Applicable
+Male,22,B.TECH,CS,7.85,No,4.0,3,9,Not Placed,0.0,Not Applicable
+Male,21,BCA,DS,6.71,No,2.0,4,6,Placed,12.86,Hcl
+Male,20,BSC,AI/ML,5.64,No,4.0,3,3,Placed,7.77,Wipro
+Female,24,B.TECH,DS,6.15,No,3.0,6,1,Not Placed,0.0,Not Applicable
+Female,24,B.TECH,CS,8.21,No,2.0,5,10,Placed,11.33,Wipro
+Female,21,BSC,CS,6.73,Yes,1.0,0,8,Not Placed,0.0,Not Applicable
+Female,25,BSC,DS,7.92,No,5.0,5,1,Placed,7.81,Google
+Female,22,BSC,DS,5.77,No,4.0,2,5,Not Placed,0.0,Not Applicable
+Female,24,B.TECH,IT,7.69,No,2.0,5,4,Not Placed,0.0,Not Applicable
+Female,24,B.TECH,AI/ML,9.66,Yes,4.0,5,9,Not Placed,0.0,Not Applicable
+Male,22,BCA,AI/ML,9.61,Yes,2.0,3,5,Not Placed,0.0,Not Applicable
+Female,24,B.TECH,IT,7.88,Yes,4.0,5,10,Placed,10.28,Paytm
+Male,20,BCA,DS,9.67,No,5.0,3,2,Placed,14.11,Hcl
+Male,22,B.TECH,AI/ML,9.92,Yes,0.0,5,10,Placed,13.07,Paytm
+Female,23,BSC,AI/ML,9.35,Yes,0.0,2,10,Placed,9.23,Google
+Female,21,MCA,AI/ML,5.27,Yes,0.0,2,3,Not Placed,0.0,Not Applicable
+Male,25,B.TECH,AI/ML,5.02,Yes,1.0,4,7,Not Placed,0.0,Not Applicable
+Male,23,BCA,IT,7.69,Yes,3.0,2,4,Placed,14.04,Deloitte
+Female,24,BCA,AI/ML,8.69,No,5.0,1,1,Placed,8.43,Hcl
+Male,25,B.TECH,AI/ML,5.7,Yes,1.0,1,8,Placed,5.12,Tech Mahindra
+Female,24,BSC,IT,9.57,Yes,4.0,3,9,Not Placed,0.0,Not Applicable
+Male,20,BSC,IT,7.69,Yes,2.0,6,9,Not Placed,0.0,Not Applicable
+Female,20,MCA,CS,5.89,No,1.0,4,7,Not Placed,0.0,Not Applicable
+Female,25,B.TECH,CS,7.07,No,2.0,6,1,Placed,4.02,Tech Mahindra
+Male,20,MCA,CS,7.98,No,3.0,1,3,Not Placed,0.0,Not Applicable
+Female,23,MCA,CS,6.05,Yes,5.0,6,6,Placed,13.78,Cognizant
+Male,20,B.TECH,DS,5.18,No,4.0,3,4,Placed,8.66,Capgemini
+Male,25,MCA,CS,8.88,Yes,1.0,0,2,Placed,8.44,Microsoft
+Male,23,MCA,IT,7.0,Yes,0.0,1,9,Not Placed,0.0,Not Applicable
+Female,24,B.TECH,IT,5.91,No,1.0,5,9,Placed,13.34,Tcs
+Male,25,MCA,DS,6.35,Yes,2.0,5,7,Not Placed,0.0,Not Applicable
+Male,22,MCA,IT,5.13,No,1.0,6,4,Not Placed,0.0,Not Applicable
+Male,24,MCA,DS,8.29,Yes,3.0,1,5,Placed,3.33,Paytm
+Male,24,BSC,CS,8.36,No,3.0,5,10,Placed,3.24,Amazon
+Male,23,BSC,AI/ML,5.89,No,0.0,1,4,Placed,10.83,Ibm
+Male,24,B.TECH,AI/ML,6.22,No,3.0,4,6,Not Placed,0.0,Not Applicable
+Female,23,BCA,DS,9.15,No,1.0,2,6,Not Placed,0.0,Not Applicable
+Male,25,BSC,CS,6.02,No,4.0,4,10,Not Placed,0.0,Not Applicable
+Male,22,BSC,DS,5.07,Yes,3.0,4,6,Not Placed,0.0,Not Applicable
+Female,21,B.TECH,IT,5.13,Yes,5.0,4,8,Placed,5.18,Flipkart
+Male,23,BSC,IT,9.46,Yes,5.0,1,1,Placed,12.81,Ibm
+Female,20,BCA,DS,6.9,Yes,0.0,4,5,Not Placed,0.0,Not Applicable
+Female,21,BCA,CS,8.12,Yes,1.0,1,10,Not Placed,0.0,Not Applicable
+Female,20,B.TECH,DS,7.18,No,4.0,1,4,Not Placed,0.0,Not Applicable
+Male,23,MCA,DS,8.82,No,0.0,5,1,Placed,4.68,Hcl
+Male,24,BCA,IT,9.47,Yes,5.0,4,8,Not Placed,0.0,Not Applicable
+Female,24,BCA,IT,5.11,No,0.0,1,10,Placed,6.22,Wipro
+Female,25,B.TECH,DS,6.29,Yes,5.0,5,2,Not Placed,0.0,Not Applicable
+Female,21,BCA,AI/ML,9.92,No,2.0,0,5,Not Placed,0.0,Not Applicable
+Female,24,MCA,DS,6.36,Yes,5.0,4,7,Placed,3.22,Infosys
+Male,23,BSC,DS,7.88,No,2.0,0,2,Placed,6.29,Amazon
+Male,20,BSC,DS,9.15,No,2.0,4,9,Not Placed,0.0,Not Applicable
+Male,22,BCA,AI/ML,5.68,No,0.0,2,7,Not Placed,0.0,Not Applicable
+Male,24,BSC,DS,7.99,Yes,1.0,2,5,Not Placed,0.0,Not Applicable
+Male,21,MCA,AI/ML,5.88,No,2.0,3,2,Not Placed,0.0,Not Applicable
+Female,24,BSC,DS,6.92,Yes,1.0,2,1,Not Placed,0.0,Not Applicable
+Female,22,MCA,AI/ML,5.83,No,5.0,4,3,Not Placed,0.0,Not Applicable
+Male,23,B.TECH,IT,8.02,No,2.0,2,8,Placed,5.94,Flipkart
+Male,24,BSC,IT,6.78,Yes,5.0,3,4,Not Placed,0.0,Not Applicable
+Female,25,MCA,IT,7.83,No,1.0,2,3,Not Placed,0.0,Not Applicable
+Female,24,MCA,DS,9.68,No,4.0,0,6,Placed,11.79,Google
+Male,24,MCA,AI/ML,6.31,No,0.0,0,2,Not Placed,0.0,Not Applicable
+Male,23,B.TECH,DS,7.48,No,5.0,4,9,Placed,10.16,Infosys
+Male,20,BSC,AI/ML,5.53,No,2.0,3,4,Not Placed,0.0,Not Applicable
+Male,23,MCA,AI/ML,7.48,Yes,2.0,0,2,Placed,11.26,Google
+Male,24,BSC,AI/ML,9.1,No,3.0,1,7,Placed,12.59,Hcl
+Male,23,MCA,DS,7.95,Yes,5.0,1,4,Not Placed,0.0,Not Applicable
+Male,24,BSC,AI/ML,9.59,No,1.0,3,2,Not Placed,0.0,Not Applicable
+Female,24,MCA,DS,7.23,Yes,2.0,2,8,Placed,5.22,Infosys
+Male,21,B.TECH,CS,8.66,Yes,2.0,5,3,Not Placed,0.0,Not Applicable
+Male,24,MCA,DS,8.46,Yes,3.0,5,9,Placed,13.19,Wipro
+Female,24,BCA,AI/ML,6.11,Yes,3.0,1,4,Not Placed,0.0,Not Applicable
+Female,23,MCA,DS,5.2,No,3.0,1,2,Placed,11.47,Capgemini
+Female,21,MCA,DS,7.84,Yes,4.0,0,5,Not Placed,0.0,Not Applicable
+Female,24,BSC,DS,8.49,Yes,5.0,6,4,Not Placed,0.0,Not Applicable
+Female,22,BCA,DS,9.86,Yes,1.0,1,10,Not Placed,0.0,Not Applicable
+Male,24,BSC,IT,9.31,Yes,0.0,4,6,Not Placed,0.0,Not Applicable
+Male,22,B.TECH,AI/ML,9.14,No,4.0,5,2,Placed,3.44,Flipkart
+Male,21,B.TECH,IT,5.6,No,3.0,1,10,Not Placed,0.0,Not Applicable
+Female,20,BCA,DS,6.7,No,5.0,2,8,Not Placed,0.0,Not Applicable
+Male,25,BCA,DS,6.58,No,0.0,6,9,Not Placed,0.0,Not Applicable
+Male,23,B.TECH,AI/ML,6.59,No,2.0,4,10,Placed,10.51,Amazon
+Male,25,MCA,CS,6.16,Yes,2.0,3,8,Placed,3.29,Paytm
+Male,22,BCA,AI/ML,9.37,No,0.0,2,3,Placed,9.35,Microsoft
+Male,25,BCA,CS,9.99,Yes,3.0,0,3,Placed,7.21,Microsoft
+Female,25,BSC,DS,7.4,Yes,1.0,3,2,Placed,10.53,Paytm
+Female,21,BSC,CS,8.84,Yes,4.0,5,3,Not Placed,0.0,Not Applicable
+Male,23,MCA,IT,8.69,Yes,0.0,1,2,Not Placed,0.0,Not Applicable
+Female,21,BSC,AI/ML,6.77,Yes,1.0,4,10,Not Placed,0.0,Not Applicable
+Male,24,BSC,DS,7.69,No,2.0,0,4,Not Placed,0.0,Not Applicable
+Male,23,BCA,CS,9.94,No,2.0,1,7,Not Placed,0.0,Not Applicable
+Male,23,BCA,CS,8.4,Yes,0.0,2,4,Placed,5.62,Capgemini
+Female,25,MCA,CS,5.45,Yes,2.0,0,5,Placed,8.01,Tech Mahindra
+Male,22,MCA,IT,7.34,Yes,1.0,0,7,Placed,10.36,Tcs
+Male,20,BSC,CS,6.16,Yes,3.0,2,9,Not Placed,0.0,Not Applicable
+Male,25,B.TECH,CS,8.04,Yes,2.0,6,7,Not Placed,0.0,Not Applicable
+Female,25,BCA,DS,5.88,No,4.0,2,1,Not Placed,0.0,Not Applicable
+Female,21,B.TECH,CS,8.9,Yes,1.0,5,9,Placed,7.2,Tcs
+Female,21,BSC,CS,9.42,No,1.0,2,4,Not Placed,0.0,Not Applicable
+Male,24,B.TECH,CS,5.87,Yes,1.0,1,9,Placed,7.75,Flipkart
+Female,20,MCA,CS,5.77,No,1.0,2,10,Not Placed,0.0,Not Applicable
+Female,22,MCA,IT,6.12,Yes,1.0,0,7,Placed,9.44,Google
+Male,25,MCA,AI/ML,5.46,Yes,1.0,4,4,Not Placed,0.0,Not Applicable
+Male,25,B.TECH,CS,5.65,Yes,1.0,6,9,Not Placed,0.0,Not Applicable
+Male,24,BCA,IT,9.31,No,0.0,4,10,Placed,12.71,Accenture
+Female,23,B.TECH,AI/ML,5.43,No,2.0,1,2,Placed,7.9,Wipro
+Female,23,B.TECH,DS,8.62,Yes,4.0,2,4,Not Placed,0.0,Not Applicable
+Female,20,BCA,IT,6.1,No,5.0,5,10,Placed,11.2,Infosys
+Female,24,BCA,AI/ML,7.48,No,1.0,0,7,Not Placed,0.0,Not Applicable
+Male,20,MCA,CS,9.12,Yes,0.0,0,1,Placed,7.17,Hcl
+Female,20,BCA,CS,6.34,Yes,5.0,3,3,Placed,13.54,Deloitte
+Female,25,MCA,DS,9.25,Yes,3.0,5,7,Placed,13.41,Capgemini
+Male,20,BSC,AI/ML,8.49,No,3.0,4,8,Placed,11.16,Wipro
+Male,25,BCA,DS,5.79,No,3.0,4,8,Not Placed,0.0,Not Applicable
+Female,23,B.TECH,IT,5.15,Yes,2.0,4,4,Placed,12.91,Deloitte
+Male,21,BCA,IT,8.72,Yes,2.0,4,1,Placed,4.93,Flipkart
+Male,24,B.TECH,AI/ML,7.54,Yes,5.0,5,6,Placed,3.08,Capgemini
+Male,20,BCA,IT,9.91,Yes,0.0,4,8,Placed,10.58,Amazon
+Male,22,BCA,CS,7.7,Yes,4.0,5,3,Placed,12.36,Microsoft
+Male,22,B.TECH,AI/ML,7.71,Yes,1.0,5,7,Not Placed,0.0,Not Applicable
+Female,21,BSC,DS,8.16,No,5.0,5,5,Placed,14.18,Microsoft
+Male,21,B.TECH,IT,8.44,Yes,3.0,1,6,Placed,3.81,Wipro
+Female,20,B.TECH,IT,5.34,Yes,5.0,0,6,Not Placed,0.0,Not Applicable
+Male,23,MCA,DS,7.69,Yes,3.0,3,7,Not Placed,0.0,Not Applicable
+Male,23,BSC,IT,9.87,No,0.0,6,1,Not Placed,0.0,Not Applicable
+Female,20,BCA,AI/ML,7.69,Yes,2.0,1,2,Placed,12.1,Paytm
+Female,25,BSC,DS,6.62,Yes,0.0,0,6,Placed,8.86,Cognizant
+Female,22,BSC,CS,7.23,Yes,3.0,4,9,Not Placed,0.0,Not Applicable
+Female,20,MCA,CS,7.13,No,5.0,5,10,Not Placed,0.0,Not Applicable
+Male,21,BSC,AI/ML,8.97,Yes,3.0,6,2,Not Placed,0.0,Not Applicable
+Female,25,B.TECH,CS,5.41,No,1.0,2,7,Not Placed,0.0,Not Applicable
+Male,22,MCA,DS,6.37,No,1.0,6,5,Placed,14.41,Infosys
+Female,24,BSC,CS,9.72,No,4.0,3,9,Not Placed,0.0,Not Applicable
+Female,22,BCA,DS,6.99,Yes,4.0,4,9,Placed,6.29,Wipro
+Male,20,MCA,CS,9.47,No,1.0,6,3,Not Placed,0.0,Not Applicable
+Male,23,MCA,AI/ML,5.16,No,4.0,3,1,Not Placed,0.0,Not Applicable
+Male,21,BCA,CS,9.32,Yes,2.0,6,9,Not Placed,0.0,Not Applicable
+Female,25,MCA,DS,5.93,Yes,1.0,2,7,Placed,13.42,Paytm
+Male,25,MCA,AI/ML,9.22,No,0.0,2,5,Not Placed,0.0,Not Applicable
+Male,21,BSC,AI/ML,5.66,No,2.0,2,7,Placed,3.39,Paytm
+Female,20,BSC,CS,8.98,No,5.0,4,7,Placed,8.78,Paytm
+Male,20,MCA,CS,8.43,No,5.0,1,5,Not Placed,0.0,Not Applicable
+Female,25,BCA,CS,7.46,Yes,2.0,3,10,Not Placed,0.0,Not Applicable
+Female,22,BSC,AI/ML,6.34,Yes,2.0,0,7,Placed,12.57,Accenture
+Male,22,MCA,CS,5.06,Yes,3.0,1,3,Placed,3.87,Amazon
+Female,23,B.TECH,DS,8.0,No,1.0,3,5,Not Placed,0.0,Not Applicable
+Male,24,B.TECH,AI/ML,7.69,No,5.0,0,8,Placed,12.36,Tech Mahindra
+Female,21,BSC,IT,5.52,Yes,4.0,3,6,Placed,5.9,Capgemini
+Female,23,BCA,IT,7.49,No,5.0,5,4,Not Placed,0.0,Not Applicable
+Female,21,BSC,AI/ML,7.8,Yes,3.0,1,5,Placed,3.12,Accenture
+Female,23,B.TECH,AI/ML,7.69,No,4.0,2,8,Placed,7.21,Google
+Male,23,BSC,CS,6.98,No,4.0,2,7,Placed,4.59,Tech Mahindra
+Female,21,B.TECH,IT,9.0,Yes,3.0,2,3,Not Placed,0.0,Not Applicable
+Female,22,BSC,IT,5.52,Yes,3.0,6,2,Placed,10.64,Hcl
+Female,20,BCA,IT,9.68,No,0.0,2,9,Placed,3.62,Google
+Female,22,BSC,CS,9.35,No,4.0,4,5,Placed,11.57,Capgemini
+Female,23,BSC,AI/ML,9.07,No,2.0,6,4,Placed,3.96,Accenture
+Male,24,BSC,CS,9.09,No,5.0,5,1,Not Placed,0.0,Not Applicable
+Male,24,BCA,CS,7.63,Yes,0.0,5,2,Not Placed,0.0,Not Applicable
+Male,24,B.TECH,DS,5.3,Yes,1.0,5,1,Not Placed,0.0,Not Applicable
+Female,24,BSC,DS,9.36,Yes,4.0,5,10,Placed,5.63,Infosys
+Male,22,BSC,AI/ML,5.91,No,2.0,1,1,Not Placed,0.0,Not Applicable
+Female,21,BCA,CS,7.49,Yes,0.0,6,10,Not Placed,0.0,Not Applicable
+Male,25,BCA,AI/ML,6.14,Yes,3.0,2,5,Not Placed,0.0,Not Applicable
+Male,20,B.TECH,AI/ML,8.25,No,3.0,5,2,Placed,5.39,Wipro
+Female,23,B.TECH,CS,5.15,No,2.0,1,2,Not Placed,0.0,Not Applicable
+Female,23,MCA,DS,9.34,Yes,0.0,1,1,Placed,11.73,Deloitte
+Male,24,MCA,AI/ML,6.73,Yes,5.0,6,3,Not Placed,0.0,Not Applicable
+Female,23,BCA,CS,5.2,No,5.0,2,1,Placed,13.4,Microsoft
+Female,25,BSC,DS,8.63,No,5.0,5,7,Placed,8.84,Paytm
+Female,23,BSC,CS,7.11,No,2.0,1,6,Not Placed,0.0,Not Applicable
+Male,24,MCA,DS,9.56,Yes,0.0,3,8,Not Placed,0.0,Not Applicable
+Female,22,BCA,DS,8.16,Yes,0.0,3,7,Placed,11.8,Ibm
+Male,25,MCA,AI/ML,9.55,No,0.0,6,4,Not Placed,0.0,Not Applicable
+Female,25,B.TECH,DS,9.86,Yes,0.0,6,4,Placed,5.17,Google
+Female,25,BCA,CS,6.24,Yes,3.0,1,7,Placed,13.45,Accenture
+Male,23,BSC,AI/ML,6.8,Yes,3.0,0,10,Placed,10.12,Ibm
+Female,20,BCA,DS,9.85,No,4.0,6,3,Placed,6.1,Google
+Female,24,MCA,DS,8.87,Yes,2.0,3,6,Not Placed,0.0,Not Applicable
+Male,23,B.TECH,AI/ML,7.27,Yes,1.0,1,10,Not Placed,0.0,Not Applicable
+Male,24,B.TECH,CS,5.85,No,4.0,3,10,Not Placed,0.0,Not Applicable
+Female,20,BCA,CS,9.14,No,1.0,0,1,Placed,8.17,Google
+Male,25,B.TECH,IT,8.53,Yes,2.0,6,8,Placed,5.0,Cognizant
+Female,25,BCA,DS,8.68,No,3.0,6,6,Placed,10.97,Accenture
+Male,25,B.TECH,IT,9.03,Yes,2.0,3,3,Placed,10.02,Cognizant
+Male,23,B.TECH,AI/ML,5.56,Yes,1.0,4,5,Placed,6.24,Paytm
+Male,22,BCA,AI/ML,9.68,No,4.0,4,6,Placed,3.47,Wipro
+Male,23,MCA,CS,9.67,No,1.0,1,6,Not Placed,0.0,Not Applicable
+Male,24,MCA,CS,5.21,Yes,5.0,2,8,Placed,4.78,Paytm
+Male,23,B.TECH,AI/ML,5.02,Yes,4.0,6,6,Not Placed,0.0,Not Applicable
+Female,25,BSC,AI/ML,9.34,Yes,0.0,1,9,Placed,8.46,Google
+Male,21,MCA,CS,7.69,Yes,0.0,3,6,Placed,4.68,Wipro
+Male,24,BSC,AI/ML,8.52,No,3.0,3,7,Not Placed,0.0,Not Applicable
+Female,25,BCA,CS,9.85,Yes,5.0,4,1,Placed,4.13,Capgemini
+Male,22,MCA,DS,9.34,No,5.0,0,8,Placed,5.13,Hcl
+Male,22,B.TECH,CS,9.72,Yes,0.0,0,1,Not Placed,0.0,Not Applicable
+Male,22,BSC,AI/ML,8.09,Yes,3.0,5,9,Placed,13.43,Ibm
+Male,21,BCA,DS,9.65,Yes,2.0,5,2,Not Placed,0.0,Not Applicable
+Female,22,B.TECH,IT,6.08,Yes,0.0,2,10,Placed,10.91,Deloitte
+Female,25,BSC,AI/ML,5.53,No,3.0,1,1,Not Placed,0.0,Not Applicable
+Female,22,B.TECH,IT,5.24,No,3.0,3,8,Not Placed,0.0,Not Applicable
+Male,21,BCA,AI/ML,9.35,Yes,4.0,1,5,Placed,12.39,Cognizant
+Female,24,BSC,CS,9.39,No,4.0,4,8,Placed,7.85,Paytm
+Male,23,BCA,DS,9.04,No,4.0,0,4,Placed,12.15,Wipro
+Male,25,MCA,AI/ML,9.09,Yes,2.0,6,8,Placed,4.44,Accenture
+Female,23,MCA,DS,6.62,Yes,0.0,5,6,Placed,7.4,Ibm
+Male,23,MCA,AI/ML,6.94,Yes,4.0,2,7,Placed,8.38,Flipkart
+Female,24,BCA,IT,6.14,No,1.0,1,2,Not Placed,0.0,Not Applicable
+Male,21,B.TECH,CS,8.34,Yes,3.0,6,6,Placed,10.43,Deloitte
+Male,25,MCA,CS,9.32,Yes,2.0,1,10,Placed,9.23,Tcs
+Male,21,B.TECH,IT,6.71,No,4.0,4,1,Not Placed,0.0,Not Applicable
+Female,24,MCA,DS,7.9,Yes,1.0,6,7,Placed,9.4,Cognizant
+Female,23,BCA,IT,9.06,No,2.0,1,2,Placed,11.62,Paytm
+Male,24,BCA,IT,5.98,No,4.0,4,1,Placed,3.09,Wipro
+Male,25,MCA,DS,6.22,No,0.0,5,9,Not Placed,0.0,Not Applicable
