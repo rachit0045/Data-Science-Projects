@@ -1,0 +1,721 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+1,15515795,Miller,573,Germany,female,67,6,246914.9,1,Yes,Inactive,98945.27,Churned
+2,15500860,Johnson,490,Germany,Male,50,7,72873.94,2,Yes,Active,37508.18,Churned
+3,15576820,Brown,,spain,female,24,1,192685.63,2,No,Active,39644.42,Churned
+4,15554886,brown  ,564,Germany,Female,87,6,106873.91,1,Yes,Inactive,15809.63,Still customer
+5,15506265,Jones,,germany,female,32,1,,3,No,Active,55089.45,Still customer
+6,15582386,Davis,728,france,male,49,1,199929.69,1,Yes,Inactive,88364.25,Churned
+7,15537194,Smith,789,France,Male,37,7,83401.7,2,Yes,Active,130110.89,Churned
+8,15587498,Davis,560,Spain,Female,32,1,216298.34,2,Yes,Inactive,103369.84,Still customer
+9,15544131,Smith,667,germany,Female,65,8,228814.3,3,Yes,Active,70955.49,Churned
+10,15560263,Williams,381,France,Female,88,0,214955.96,1,Yes,Active,143436.82,Churned
+11,15516023,Jones,507,germany,Male,38,8,8751.98,2,Yes,Inactive,110694.33,Churned
+12,15541090,Brown,634,germany,male,59,0,196843.34,2,No,Active,140223.13,Churned
+13,15567221,Miller,654,Spain,Female,43,9,102834.87,2,No,Inactive,83862.32,Still customer
+14,15564820,Smith,,,female,31,9,218430.73,3,Yes,Inactive,46246.6,Still customer
+15,15500769,Davis,826,Germany,Female,74,1,159488.57,2,No,Inactive,17395.74,Still customer
+16,15559735,Brown,635,spain,Female,54,5,208410.78,2,Yes,Inactive,111651.88,Churned
+17,15562955,Smith,493,france,Female,,5,124857.94,1,No,Inactive,26982.42,Churned
+18,15564925,Smith,773,spain,Female,38,0,133756.38,1,Yes,Active,52388.52,Still customer
+19,15567969,Smith,368,Spain,male,86,6,36096.91,2,No,Active,84545.93,Still customer
+20,15505311,Miller,367,Spain,female,20,7,195996.84,2,Yes,Active,89018.32,Still customer
+21,15583104,Jones,606,Spain,male,54,1,104847.4,1,No,Inactive,94081.65,Churned
+22,15553707,Miller,427,France,female,66,7,125020.03,3,Yes,Active,33275.75,Still customer
+23,15585305,Johnson,720,spain,Female,36,8,196274.43,3,No,Active,63163.24,Churned
+24,15528693,Brown,524,france,Male,29,5,149711.35,3,Yes,Active,96407.19,Churned
+25,15571932,Jones,847,france,male,78,4,50274.68,3,Yes,Active,145774.64,Still customer
+26,15593016,Jones,543,germany,Male,58,8,147558.16,3,Yes,Active,111868.36,Still customer
+27,15525658,Jones,825,germany,male,50,8,101908.21,3,No,Inactive,139164.53,Churned
+28,15584478,Davis,462,,Female,67,0,117381.39,3,No,Inactive,116709.69,Still customer
+29,15518431,Jones,463,Spain,male,85,2,7077.82,3,No,Active,92840.38,Still customer
+30,15502747,Miller,,,Female,88,8,52507.34,1,Yes,Inactive,36883.27,Churned
+31,15559150,Jones,515,spain,male,50,1,70259.52,3,No,Inactive,103335.99,Churned
+32,15565725,Williams,,Spain,Female,41,3,178240,3,Yes,Active,97273.14,Churned
+33,15584654,Brown,668,France,,78,3,2873.12,3,No,Active,94345.68,Churned
+34,15535773,Jones,481,germany,female,78,1,102194.32,2,No,Inactive,78570.02,Churned
+35,15567435,Brown,734,Spain,Female,45,2,231006.72,1,No,Active,84011.92,Still customer
+36,15556886,williams  ,613,Spain,female,75,2,,1,No,Inactive,56821.95,Churned
+37,15566803,Williams,762,France,Female,60,0,129106.1,1,Yes,Inactive,82703.78,Churned
+38,15531551,brown  ,404,Germany,Male,58,5,196630.6,3,No,Active,37657.83,Churned
+39,15511394,Smith,708,france,Female,56,7,235632.83,3,No,Inactive,122724.42,Still customer
+40,15569092,Johnson,480,spain,Male,66,2,,2,Yes,Inactive,36008.77,Churned
+41,15503890,Davis,637,Germany,Male,34,4,180141.39,1,Yes,Inactive,21895.28,Churned
+42,15541606,Smith,615,germany,Female,87,0,206622.02,3,No,Active,71074.44,Churned
+43,15596276,Smith,807,Spain,Male,87,9,111550.31,1,No,Active,102163.04,Still customer
+44,15580038,Miller,816,France,female,82,6,201461.13,2,Yes,Active,71280.36,Churned
+45,15587313,Davis,715,,male,91,9,1991.1,2,Yes,Active,48745.58,Churned
+46,15510627,Davis,511,FRANCE,Female,22,0,231140.26,2,Yes,Inactive,88143.97,Churned
+47,15508792,Smith,729,Germany,Male,19,8,110826.63,1,No,Active,58580.33,Still customer
+48,15573969,Jones,830,france,Female,39,7,138345.05,3,No,Active,140601.48,Still customer
+49,15543001,Miller,436,Spain,female,74,6,63720.56,3,No,Active,139170.32,Still customer
+50,15576552,Miller,404,france,Female,83,9,185632.71,2,Yes,Active,80332.05,Still customer
+51,15523897,Williams,,spain,Female,91,6,19158.95,3,Yes,Inactive,55903.76,Churned
+52,15568148,Davis,637,France,Male,33,4,218158.95,2,Yes,Inactive,113198.54,Churned
+53,15523483,Smith,527,France,female,68,4,207029.21,1,No,Inactive,15139.81,Still customer
+54,15548555,Williams,740,germany,male,56,4,54015.03,2,Yes,Active,76467.66,Still customer
+55,15517159,Brown,698,germany,male,57,0,202331.1,1,No,Active,57085.28,Churned
+56,15580077,Johnson,357,Spain,Male,55,7,196589.43,2,Yes,Inactive,138875.02,Churned
+57,15535920,Miller,670,spain,Female,77,0,158054.15,3,No,Active,11680.42,Still customer
+58,15592067,Brown,662,Germany,Male,76,3,93380.04,3,No,Active,87394.08,Still customer
+59,15567121,Brown,596,france,Male,27,8,67874.69,2,Yes,Inactive,113692.9,Still customer
+60,15569479,Jones,672,Spain,Male,81,8,57945.9,3,No,Inactive,77902.52,Still customer
+61,15589475,Johnson,821,germany,Female,80,4,79652.24,3,Yes,Active,21956.42,Churned
+62,15519457,Brown,820,france,female,66,3,225889.61,3,No,Active,146144.59,Still customer
+63,15566557,Brown,792,germany,Male,81,2,19410.19,1,Yes,Active,82521.46,Still customer
+64,15577189,Johnson,604,FRANCE,,49,2,207217.82,3,Yes,Inactive,95986.07,Churned
+65,15578953,Johnson,677,Germany,female,24,4,87222.52,1,No,Inactive,43125.37,Churned
+66,15552995,Brown,403,Spain,Male,38,9,130399.85,2,Yes,Inactive,77689.73,Churned
+67,15540757,johnson  ,598,france,male,37,0,198621.41,3,No,Inactive,70080.93,Churned
+68,15509692,Brown,588,spain,female,43,4,221094.14,3,Yes,Active,20485.42,Churned
+69,15545758,Brown,578,France,Male,85,5,86195.36,3,Yes,Inactive,24862.45,Still customer
+70,15572409,Jones,416,spain,female,32,6,115460.87,2,Yes,Inactive,127246.15,Still customer
+71,15571211,Smith,400,spain,female,31,8,103629.02,1,Yes,Active,43574.79,Still customer
+72,15565697,brown  ,446,France,female,44,2,3312.76,1,No,Active,37294.16,Churned
+73,15537065,Williams,441,spain,female,57,1,73985.72,3,Yes,Active,80687.6,Still customer
+74,15592093,Miller,844,france,female,75,2,114797.31,2,Yes,Inactive,117624.6,Churned
+75,15599299,Davis,613,france,female,45,8,102773.4,2,No,Active,18672.51,Still customer
+76,15532606,Smith,767,france,Male,43,6,180482.31,2,No,Active,90753.11,Still customer
+77,15511534,Smith,,France,male,80,8,96200.9,2,No,Inactive,26689.46,Churned
+78,15594663,Smith,445,spain,Female,83,1,122344.11,2,No,Inactive,15104.55,Churned
+79,15540397,Jones,437,France,female,42,4,107402.15,1,No,Active,17384.15,Still customer
+80,15591387,Brown,427,france,Female,20,3,185156.54,1,No,Inactive,126782.98,Still customer
+81,15501016,Jones,637,spain,Male,89,1,215743.1,1,Yes,Active,26516.15,Still customer
+82,15589789,brown  ,469,spain,female,61,8,132972.27,3,No,Active,16321.19,Still customer
+83,15555591,Jones,651,germany,male,59,8,197358.05,2,Yes,Inactive,71305.98,Still customer
+84,15589812,Jones,840,germany,Female,23,5,,3,No,Active,128159.09,Churned
+85,15523247,Miller,749,Germany,female,56,5,135342.4,2,Yes,Inactive,46737.17,Churned
+86,15524300,Williams,801,Spain,Male,69,7,86307.49,1,Yes,Inactive,69039.77,Churned
+87,15574065,Jones,849,germany,male,40,5,103550.23,3,Yes,Inactive,15589.15,Churned
+88,15582798,Miller,514,France,Female,67,0,183103.47,1,No,Active,72870.99,Still customer
+89,15509268,Johnson,531,germany,Female,60,3,220415.62,2,No,Inactive,90865.83,Still customer
+90,15586807,Williams,818,Germany,female,36,6,30373.85,2,No,Inactive,89926.99,Churned
+91,15512185,Jones,747,spain,male,86,1,158659.81,2,No,Active,56539.74,Still customer
+92,15563704,Davis,572,Germany,male,68,8,145535.95,1,Yes,Active,54174.65,Churned
+93,15586779,Smith,660,spain,male,28,7,29603.76,2,No,Active,24927.31,Still customer
+94,15539099,Johnson,781,,male,29,7,52973.58,1,Yes,Active,61351.76,Still customer
+95,15508571,Johnson,815,Spain,Male,91,6,77750.62,3,Yes,Inactive,23929.25,Still customer
+96,15538044,Miller,356,germany,male,25,3,41732.77,2,No,Inactive,117323.43,Churned
+97,15551214,Johnson,679,France,Female,41,1,60932.37,2,No,Inactive,145278.4,Churned
+98,15561228,Williams,612,,Female,58,2,66900.2,2,No,Active,145810.42,Churned
+99,15548984,Jones,510,france,Male,53,5,83918.46,3,Yes,Active,131109.95,Churned
+100,15540774,Jones,500,,,89,4,187347.61,2,No,Inactive,94110.9,Still customer
+101,15502568,Davis,434,France,Female,72,7,142978.05,1,Yes,Active,108121.2,Still customer
+102,15562592,Smith,496,Spain,male,26,5,246561.67,1,No,Active,49928.81,Still customer
+103,15567563,Miller,461,spain,Female,64,5,103683.96,2,Yes,Inactive,98307.86,Still customer
+104,15502695,Smith,730,Spain,Male,32,0,188466.27,2,No,Inactive,73790.94,Churned
+105,15548190,johnson  ,752,France,male,65,3,217867.11,3,No,Active,77482.43,Still customer
+106,15505258,Davis,385,France,female,59,4,169744.62,3,Yes,Active,116088.72,Still customer
+107,15587538,Smith,634,france,male,77,2,102966.19,3,No,Active,49468.57,Still customer
+108,15539504,Williams,537,FRANCE,Male,,8,188398.66,2,No,Inactive,54525.55,Churned
+109,15533159,Jones,431,spain,male,29,0,50916.78,3,No,Inactive,139449.85,Churned
+110,15513986,Johnson,351,spain,,19,5,81888.04,3,No,Inactive,17871.4,Churned
+111,15561858,Davis,734,spain,Male,24,5,136671.31,1,No,Inactive,77988.8,Still customer
+112,15512666,Smith,652,france,male,20,9,143852.35,3,No,Inactive,137792.11,Churned
+113,15538660,Miller,546,france,Male,20,4,5535.37,1,No,Active,95450.82,Still customer
+114,15503561,Williams,753,France,Male,44,4,236278.55,1,Yes,Active,86496.99,Still customer
+115,15526854,Williams,360,Germany,female,57,9,174156.82,3,Yes,Active,44964.19,Still customer
+116,15564505,Smith,583,Germany,Female,50,4,123925.94,1,No,Inactive,58058.57,Churned
+117,15552251,Jones,735,france,Female,18,5,233281.81,2,No,Inactive,129286.78,Churned
+118,15522662,smith  ,544,France,male,25,7,109773.89,2,No,Inactive,88290.54,Still customer
+119,15508392,Johnson,820,Germany,male,49,1,245108.89,3,Yes,Active,82063.91,Still customer
+120,15530535,Smith,468,France,female,65,5,128071.19,2,Yes,Inactive,23941.16,Churned
+121,15578603,Williams,745,FRANCE,female,21,0,28571.44,1,No,Inactive,12243.94,Churned
+122,15552256,Davis,369,France,female,,3,191200.24,2,Yes,Active,144915.93,Churned
+123,15589135,Smith,610,germany,Male,36,9,169724.43,3,No,Inactive,62778.06,Still customer
+124,15535222,Jones,,spain,female,49,2,193246.68,3,No,Active,94449.83,Still customer
+125,15577373,Davis,771,FRANCE,female,26,8,237860.51,1,No,Inactive,21160.11,Still customer
+126,15579575,Miller,605,,male,29,2,194122.33,3,No,Inactive,105636,Churned
+127,15596354,Brown,571,france,female,28,5,152834.15,2,Yes,Active,140559.34,Churned
+128,15584651,Smith,742,Germany,Male,63,0,214327.23,3,Yes,Active,90593.14,Churned
+129,15563335,Jones,,spain,Male,33,5,168311.61,1,No,Active,27656.15,Still customer
+130,15510965,Davis,402,Germany,,18,3,102029.76,3,Yes,Active,91441.01,Still customer
+131,15524538,Jones,777,spain,female,80,7,221404.94,2,Yes,Active,117288.61,Churned
+132,15570592,Miller,704,Germany,female,38,8,55475.12,1,No,Active,66898.32,Still customer
+133,15598018,Williams,849,spain,Male,47,3,178660.32,2,Yes,Inactive,133177.28,Churned
+134,15508110,Jones,691,Germany,female,30,9,220390.86,1,No,Inactive,100815.61,Still customer
+135,15579309,Davis,713,Germany,female,51,9,182829.13,3,No,Active,135894.85,Churned
+136,15527266,Jones,629,Germany,female,21,5,174318.85,1,No,Inactive,97290.74,Still customer
+137,15552992,Jones,430,Germany,Female,45,0,188159.57,1,No,Active,28380.32,Still customer
+138,15582948,Jones,551,france,male,76,3,116263.81,3,Yes,Inactive,53356.84,Churned
+139,15598806,Johnson,507,France,Female,44,6,218542.67,2,No,Active,38251.29,Churned
+140,15506910,Johnson,469,SPAIN,male,86,0,50859.12,3,Yes,Inactive,137235.71,Churned
+141,15590982,Williams,408,germany,Male,42,7,31846.6,1,No,Inactive,116456.01,Churned
+142,15500206,Smith,843,Spain,female,20,9,71377.2,3,No,Inactive,104695.77,Churned
+143,15587054,jones  ,564,Spain,male,85,5,,1,Yes,Inactive,52135.28,Still customer
+144,15587897,Miller,477,spain,Female,42,4,127640.45,3,No,Inactive,35766.27,Churned
+145,15523419,Smith,573,France,female,37,9,205149.69,3,Yes,Active,115903.15,Churned
+146,15550636,Miller,558,spain,Male,51,8,101142.16,2,Yes,Active,76382.11,Churned
+147,15550015,Smith,719,FRANCE,male,43,1,121086.11,1,No,Active,41610.54,Still customer
+148,15554268,Williams,464,France,male,22,4,3341.92,2,No,Inactive,96327.08,Churned
+149,15587939,Jones,558,Germany,male,78,5,102434.81,1,No,Active,15646.74,Churned
+150,15518141,Jones,363,france,female,26,6,161943.56,3,No,Inactive,55663.84,Churned
+151,15580356,Brown,358,Germany,Female,67,4,3877.08,1,No,Inactive,75597.98,Still customer
+152,15571910,Miller,389,france,Female,23,8,70220.49,2,No,Inactive,30714.17,Still customer
+153,15556044,Smith,799,spain,male,77,0,,2,Yes,Active,147851.63,Churned
+154,15567214,Smith,586,france,Male,61,6,10496.36,2,Yes,Inactive,39273.63,Still customer
+155,15533827,Johnson,630,spain,Male,28,9,119815.02,1,No,Active,28249.44,Churned
+156,15555820,Brown,708,Spain,Female,83,6,45430.82,2,Yes,Active,38494.88,Still customer
+157,15562623,Davis,550,Spain,Male,64,3,185770.38,2,Yes,Inactive,117668.56,Churned
+158,15581734,Davis,595,france,Female,90,8,211981.97,2,No,Inactive,69570.79,Still customer
+159,15575450,Johnson,627,france,male,20,4,136396.3,3,No,Active,89158.23,Churned
+160,15593426,Johnson,584,spain,Female,47,3,245426.84,3,Yes,Active,12941.28,Churned
+161,15522299,Johnson,843,Germany,Female,38,6,112619.64,1,No,Active,14820.38,Still customer
+162,15543585,Miller,353,,male,45,3,128342.05,1,Yes,Active,72415.58,Churned
+163,15564044,Miller,503,Germany,Male,79,2,247304.44,2,No,Active,124331.73,Churned
+164,15542557,Williams,791,Spain,Female,50,8,57887.11,3,Yes,Active,133933.44,Churned
+165,15549080,Williams,378,France,Female,52,7,235636.48,2,Yes,Inactive,22138.92,Churned
+166,15502693,Johnson,458,france,male,69,0,10709.39,2,Yes,Active,85370.83,Still customer
+167,15595003,brown  ,447,Germany,Male,51,6,111596.72,3,Yes,Active,137852.16,Churned
+168,15595259,Smith,564,spain,Female,58,8,17500.88,3,No,Active,64316.19,Still customer
+169,15569163,Miller,642,Spain,male,68,7,182308.69,3,No,Active,126139.22,Still customer
+170,15525939,Brown,424,Germany,Female,64,7,152102.23,1,Yes,Inactive,28717.39,Still customer
+171,15548925,Jones,675,spain,female,75,5,176658.57,1,Yes,Inactive,140955.23,Still customer
+172,15542941,Miller,495,france,male,74,3,93620.1,2,No,Active,115199.26,Churned
+173,15521834,Miller,477,france,Male,40,7,92370.48,1,No,Active,141786.81,Churned
+174,15518047,Williams,690,germany,Male,65,2,11329.82,3,Yes,Active,104726.41,Still customer
+175,15526105,Smith,391,France,Male,39,8,87486.23,3,Yes,Inactive,60876.55,Churned
+176,15575766,Smith,705,germany,Male,34,1,232322.1,1,Yes,Inactive,141345.36,Still customer
+177,15515707,Davis,390,Spain,Female,86,1,94806.63,2,Yes,Inactive,48579.35,Churned
+178,15521976,Davis,771,Germany,Female,28,6,207841.93,2,Yes,Inactive,56504.15,Churned
+179,15544262,Davis,,Spain,Male,32,9,,1,No,Inactive,108113.18,Churned
+180,15523776,Davis,366,spain,Male,52,3,93310.29,2,Yes,Inactive,117144.28,Still customer
+181,15530080,Jones,514,france,Male,50,9,157997.17,2,No,Active,140116.49,Still customer
+182,15566842,Jones,502,germany,Female,33,7,23842.9,2,No,Inactive,38672.34,Churned
+183,15561373,Miller,835,germany,Male,,8,25919.65,3,No,Inactive,121719.72,Still customer
+184,15506776,Johnson,727,germany,Male,83,6,12164.42,3,Yes,Active,113396.45,Still customer
+185,15592787,Williams,425,Spain,female,,4,145253.77,1,No,Inactive,18931.24,Churned
+186,15555016,Williams,436,france,female,45,7,106517.74,3,No,Active,64211.24,Still customer
+187,15509474,Davis,466,Germany,Male,64,3,137008.09,2,No,Inactive,49587.16,Churned
+188,15558053,Miller,711,spain,male,56,1,130268.3,3,No,Active,52628.66,Churned
+189,15521959,Brown,691,Germany,Male,87,5,87550.75,1,Yes,Active,147612.56,Churned
+190,15505530,johnson  ,818,Spain,female,90,8,169368.35,3,Yes,Active,99988.84,Still customer
+191,15594856,Miller,376,spain,male,37,0,189625.47,2,No,Active,110474.66,Churned
+192,15503748,johnson  ,662,germany,male,18,9,3657.06,2,No,Active,146726.47,Churned
+193,15597504,Johnson,,France,Male,89,6,51810.57,1,Yes,Inactive,62808.25,Still customer
+194,15598098,Johnson,,Spain,,80,9,178308.97,3,Yes,Inactive,122257.62,Still customer
+195,15513545,Miller,568,Spain,female,84,8,96655.04,3,Yes,Active,70834.33,Still customer
+196,15566199,Davis,517,france,male,21,9,165620.99,3,No,Active,131734.71,Still customer
+197,15534766,Williams,447,Germany,Male,75,8,86740.66,2,Yes,Active,35292.06,Churned
+198,15573530,Williams,617,Spain,Female,42,9,97688.79,1,No,Inactive,142676.06,Still customer
+199,15593557,Davis,586,Spain,Female,64,2,39669.72,3,No,Active,40628.04,Still customer
+200,15561087,Johnson,658,germany,female,55,4,64557.75,2,Yes,Active,55670.87,Still customer
+201,15595839,Brown,804,germany,Female,32,7,151352.94,2,No,Active,115866.91,Still customer
+202,15568840,Smith,743,spain,female,80,7,108290.78,2,Yes,Active,65125.72,Churned
+203,15554384,Miller,,France,,38,3,193575.67,3,No,Inactive,95149.59,Still customer
+204,15551005,Smith,750,france,female,74,0,213146.24,3,Yes,Active,72240.29,Churned
+205,15546576,Davis,759,France,Female,70,0,135411.6,3,No,Active,113931.79,Still customer
+206,15539353,Brown,818,spain,female,63,3,189566.82,3,No,Inactive,41966.38,Churned
+207,15562003,Miller,825,germany,male,31,5,76726.13,3,Yes,Active,18184.12,Churned
+208,15583211,Davis,539,Germany,Male,34,7,103742.8,3,Yes,Active,51990.12,Still customer
+209,15552733,Johnson,471,germany,Male,56,5,178194.42,3,Yes,Inactive,76403.21,Churned
+210,15565318,Williams,395,france,female,26,8,96553,3,Yes,Inactive,33522.81,Still customer
+211,15589474,Smith,413,germany,Male,23,8,147126.23,3,No,Inactive,59671.62,Churned
+212,15523664,Jones,479,france,Female,40,1,46343.19,2,Yes,Active,65997.62,Churned
+213,15567172,Jones,659,france,Female,76,9,149942.83,3,Yes,Active,18034.86,Churned
+214,15585616,Brown,712,france,Male,63,0,215378.43,1,No,Inactive,91663.01,Still customer
+215,15593264,Johnson,542,spain,Female,55,1,217159.91,2,Yes,Inactive,133808.08,Churned
+216,15526736,Smith,656,france,Male,31,4,181086.1,3,Yes,Inactive,31244.01,Still customer
+217,15594209,Johnson,530,france,Male,89,3,186438.34,1,No,Active,93693.12,Churned
+218,15500854,Smith,641,Germany,Male,79,3,139481.86,3,Yes,Active,103063.49,Churned
+219,15590084,Brown,720,France,female,52,8,146167.02,1,Yes,Inactive,68706.86,Churned
+220,15538623,Brown,631,Spain,Male,36,7,,1,Yes,Active,108153.66,Churned
+221,15507392,Jones,378,France,female,47,5,110964.8,1,Yes,Inactive,67502.42,Churned
+222,15555680,Johnson,498,france,Male,42,0,112694.07,1,Yes,Active,80649.22,Churned
+223,15546717,Miller,616,Germany,Male,57,1,239624.46,2,Yes,Active,11029.43,Still customer
+224,15587092,Jones,645,,Male,31,5,107771.72,2,No,Active,106840.82,Still customer
+225,15550859,Johnson,360,Germany,Female,43,1,137335.66,1,Yes,Active,102587.98,Still customer
+226,15526309,Jones,513,FRANCE,female,39,9,133312.85,3,No,Inactive,15376.12,Churned
+227,15587455,Miller,462,Germany,female,65,4,159190.43,1,No,Active,61555.02,Still customer
+228,15563734,Williams,536,Germany,Male,68,4,187058.21,2,No,Active,147064.46,Churned
+229,15570467,Williams,644,france,Male,,5,56260.47,3,No,Inactive,68903.12,Still customer
+230,15552662,Williams,581,,,59,5,132181.1,2,Yes,Active,80272.36,Still customer
+231,15598506,Williams,576,Germany,Female,36,5,206479.43,2,Yes,Inactive,137390.22,Churned
+232,15512688,Davis,659,Spain,Female,90,1,115778.68,3,Yes,Inactive,110416.66,Churned
+233,15525342,Smith,447,Spain,female,45,9,,1,No,Active,91489.82,Still customer
+234,15537157,Davis,404,Germany,female,62,2,163677.27,1,Yes,Active,121692.66,Still customer
+235,15567863,Davis,460,spain,female,88,5,205941.85,1,Yes,Inactive,131011.28,Still customer
+236,15552083,Davis,501,germany,Male,80,7,15785.07,1,Yes,Inactive,73964.33,Still customer
+237,15565733,Williams,595,france,female,90,0,194197.62,3,No,Inactive,76515.17,Churned
+238,15589045,Miller,755,Spain,male,,0,205411.98,3,No,Active,64047.13,Still customer
+239,15534698,Brown,418,germany,male,64,1,115380.73,3,Yes,Inactive,145338.86,Churned
+240,15580623,Brown,661,Germany,Female,31,5,245826.41,2,No,Inactive,107603.28,Churned
+241,15522671,Smith,638,GERMANY,female,55,8,196677.09,3,No,Inactive,21651.23,Still customer
+242,15525184,Williams,599,France,male,70,3,193415.64,1,Yes,Active,130814.35,Churned
+243,15593384,Williams,385,Spain,Female,,2,186959.64,2,No,Inactive,77278.39,Still customer
+244,15542107,williams  ,588,Germany,female,,7,37652.03,1,No,Active,19625.55,Churned
+245,15586202,Jones,497,FRANCE,Male,57,9,54307.72,1,Yes,Active,86960.42,Churned
+246,15551663,Johnson,816,spain,,47,8,115997.53,3,No,Inactive,68403,Still customer
+247,15515708,Jones,576,Germany,Male,26,4,66001.09,3,No,Active,132884.92,Churned
+248,15591906,Johnson,593,france,female,81,8,103810.24,1,No,Inactive,38559.24,Churned
+249,15549811,williams  ,840,spain,male,50,1,222116.03,1,No,Active,125705.05,Still customer
+250,15502811,Williams,686,spain,female,69,2,206081.72,2,No,Active,88076.42,Churned
+251,15556250,Jones,795,Germany,Male,31,6,157509.97,3,No,Inactive,17645.44,Churned
+252,15572082,Jones,714,germany,male,70,6,214530.1,2,No,Inactive,146058.34,Still customer
+253,15534754,Johnson,840,germany,Male,76,5,195943.1,2,No,Inactive,81766.13,Still customer
+254,15595742,Brown,831,spain,female,58,5,107246.23,2,Yes,Active,50722.76,Churned
+255,15511411,Johnson,550,germany,female,85,1,50266.29,1,Yes,Active,75716.96,Churned
+256,15502911,Jones,,France,Male,85,9,128550.26,2,Yes,Inactive,130100.09,Churned
+257,15567270,Miller,799,spain,male,25,5,184057.22,2,Yes,Inactive,52686.44,Still customer
+258,15583763,Jones,422,spain,Male,19,3,109104.9,1,No,Active,36974.7,Churned
+259,15508680,Miller,550,france,female,58,2,166692.98,3,Yes,Active,28069.97,Churned
+260,15584896,Smith,645,germany,Male,72,1,23581.86,3,Yes,Active,51700.32,Churned
+261,15583879,Jones,366,spain,female,33,0,187001.18,2,No,Inactive,119206.73,Churned
+262,15571295,Smith,478,France,Male,,4,203178.4,1,No,Active,76027.69,Churned
+263,15588614,Brown,566,france,male,65,1,176709.46,3,No,Inactive,41847.42,Churned
+264,15511111,Johnson,410,Germany,male,47,1,241815.9,2,No,Active,33265.9,Still customer
+265,15537504,Miller,776,spain,Male,29,6,206663.01,2,No,Active,56582.13,Still customer
+266,15501802,Johnson,453,France,Male,52,7,225773.43,1,Yes,Inactive,141589.41,Churned
+267,15508155,Smith,391,Spain,male,28,9,233392.77,2,No,Inactive,58023.74,Churned
+268,15573656,Miller,374,France,female,81,7,200337,3,Yes,Inactive,148337.37,Still customer
+269,15539384,Johnson,388,France,male,67,3,168564.71,1,Yes,Active,77932.26,Still customer
+270,15547254,Jones,640,,female,38,0,1429.65,3,No,Active,35082.95,Still customer
+271,15521918,williams  ,480,Germany,Male,86,6,116456.44,3,Yes,Active,134759.61,Churned
+272,15585981,Smith,847,Spain,Male,65,0,142790.57,3,Yes,Inactive,74449.75,Churned
+273,15560713,Johnson,578,germany,female,37,3,76007.57,2,No,Active,109353.99,Churned
+274,15530306,Smith,457,germany,Male,84,7,79526.11,2,Yes,Inactive,147719.62,Churned
+275,15516646,Davis,521,,female,61,1,240289.85,3,Yes,Inactive,17024.55,Still customer
+276,15546843,Smith,784,,Female,50,5,222927.72,3,Yes,Inactive,23537.24,Still customer
+277,15596601,Miller,827,france,male,90,5,212294.75,1,No,Active,110863.94,Still customer
+278,15590735,Davis,451,germany,Female,78,8,101502.95,1,No,Active,49455.5,Still customer
+279,15516371,Miller,703,Spain,female,26,4,3424.64,2,No,Inactive,35802.2,Churned
+280,15577371,Williams,361,,male,85,9,20055.56,2,Yes,Active,15510.66,Churned
+281,15502049,Davis,624,SPAIN,female,52,3,78049.09,1,No,Inactive,13058.54,Still customer
+282,15531616,Jones,450,,male,82,4,3935.73,3,Yes,Inactive,118427.98,Still customer
+283,15520932,Smith,393,spain,male,25,9,4287.45,2,No,Active,28820.68,Still customer
+284,15529855,Johnson,792,Germany,male,62,4,229150.83,3,Yes,Inactive,75480.89,Still customer
+285,15561434,Brown,654,germany,male,64,7,176539.63,1,No,Inactive,94825.55,Still customer
+286,15572694,Smith,794,Germany,female,57,9,77239,2,No,Active,69969.25,Churned
+287,15543016,Smith,,france,male,71,7,33161.14,2,Yes,Inactive,13794.93,Churned
+288,15507400,Williams,679,spain,male,63,1,127908.93,1,No,Inactive,119690.21,Still customer
+289,15542642,Jones,406,France,Female,64,6,1336.54,2,Yes,Inactive,11471.85,Still customer
+290,15515151,Brown,660,FRANCE,,32,7,234603.44,1,No,Inactive,116664.59,Still customer
+291,15551407,Davis,846,germany,Male,36,5,103703.78,2,No,Inactive,135062.63,Churned
+292,15566690,Davis,652,france,Female,43,4,100583.74,1,Yes,Inactive,70597.59,Churned
+293,15504499,Davis,361,Spain,Female,69,8,97648.4,2,Yes,Inactive,84975.95,Churned
+294,15506295,Miller,667,france,female,39,2,17332.08,3,Yes,Active,76777.67,Still customer
+295,15559040,Miller,429,FRANCE,female,38,9,159580.56,3,No,Active,64489.21,Churned
+296,15512183,Johnson,565,France,female,,3,183250.9,3,Yes,Inactive,134239.43,Still customer
+297,15529299,Brown,688,spain,Female,55,8,169031.35,2,No,Inactive,135150.69,Churned
+298,15512874,Davis,613,france,Female,37,5,34608.87,2,Yes,Active,57014.29,Churned
+299,15532711,Miller,828,france,male,46,7,144710.04,3,Yes,Active,96109.77,Churned
+300,15505539,Johnson,498,France,female,68,6,142371.12,3,Yes,Active,139767.06,Still customer
+301,15553351,Jones,430,Spain,female,21,1,217102.7,1,Yes,Active,144688.19,Still customer
+302,15561267,Johnson,564,germany,female,72,2,94781.91,1,Yes,Active,81254.27,Churned
+303,15548354,Miller,834,germany,Male,88,0,92871.49,1,Yes,Inactive,73395.47,Still customer
+304,15502557,Williams,723,,male,45,8,154631.76,3,No,Active,49017.2,Still customer
+305,15538360,Williams,813,,,21,6,158268.16,3,Yes,Active,144242.06,Still customer
+306,15582018,Davis,547,France,female,39,0,117321.31,3,No,Active,29994,Still customer
+307,15502200,williams  ,549,France,female,62,2,110764.84,1,Yes,Inactive,91176.14,Still customer
+308,15568497,Davis,374,france,Male,84,3,123536.92,2,Yes,Inactive,49557.04,Still customer
+309,15546975,Davis,815,france,Male,83,3,215261.32,3,Yes,Inactive,49061.16,Still customer
+310,15521357,Miller,438,spain,Female,51,4,115291.73,2,No,Inactive,66695.6,Churned
+311,15577505,Williams,617,france,male,72,2,234982.95,2,No,Inactive,149831.01,Still customer
+312,15502869,Davis,492,Spain,Female,18,2,126000.94,2,Yes,Inactive,17695.28,Still customer
+313,15561135,Brown,408,germany,male,89,0,237300.17,1,No,Active,90995.85,Churned
+314,15550108,Jones,759,france,Male,55,6,208207.98,2,Yes,Inactive,21560.1,Churned
+315,15594179,Johnson,838,Germany,female,23,9,90607.83,3,Yes,Inactive,31632.92,Churned
+316,15590272,Johnson,,spain,Female,42,0,215910.36,1,No,Active,71538.81,Churned
+317,15538467,Miller,375,Germany,female,34,1,27515.82,3,No,Inactive,81464.42,Still customer
+318,15523328,Williams,396,France,Female,,3,231261.79,3,No,Active,46230.94,Churned
+319,15591412,Williams,,germany,Male,29,3,157910.88,1,No,Active,54304,Churned
+320,15586831,Davis,615,france,,23,4,13597.69,3,Yes,Inactive,22175.38,Still customer
+321,15503987,Smith,365,Germany,Male,44,1,161064.18,3,No,Active,52450.77,Still customer
+322,15558871,Davis,548,germany,Female,25,3,243561.91,1,No,Active,145318.18,Still customer
+323,15522399,Jones,750,France,male,82,0,17450.16,3,Yes,Active,142259.03,Churned
+324,15546214,Brown,756,Spain,Female,74,1,138671.93,2,No,Active,56882.96,Still customer
+325,15599522,Johnson,,spain,,57,0,186948.59,3,No,Inactive,89919.55,Churned
+326,15586416,Davis,818,germany,Female,31,9,202564.65,2,No,Active,137343.35,Still customer
+327,15570271,Smith,435,germany,Female,52,9,103456.87,3,No,Inactive,10865.74,Still customer
+328,15544064,Smith,599,Spain,Male,65,3,51041.64,1,Yes,Active,123495.7,Churned
+329,15570091,Davis,740,germany,female,73,3,10585.57,1,Yes,Active,142771.74,Still customer
+330,15540818,Miller,619,FRANCE,female,66,6,144931.54,3,No,Active,22785.6,Still customer
+331,15545525,Johnson,684,France,male,30,9,113227.77,1,No,Inactive,32602.68,Still customer
+332,15519830,Miller,466,Spain,,78,8,237186.1,3,Yes,Inactive,144504.48,Still customer
+333,15517429,Brown,356,spain,Female,66,8,,1,No,Inactive,85255.62,Still customer
+334,15506893,Smith,486,,Female,63,4,171348.84,2,No,Active,11987.53,Churned
+335,15579909,Smith,720,Germany,Male,79,9,6241.56,3,No,Active,46068.48,Churned
+336,15547333,Jones,525,france,Male,25,0,42858.54,2,No,Active,72992.11,Still customer
+337,15503436,Brown,677,germany,female,60,0,113394.75,2,No,Active,107007.25,Churned
+338,15574290,smith  ,847,Germany,male,37,5,113718.11,3,No,Inactive,112642.45,Churned
+339,15576213,Brown,664,Spain,female,,1,171425.14,2,No,Active,149359.01,Churned
+340,15505895,Johnson,564,Spain,female,66,7,227553.26,3,No,Inactive,50251.57,Still customer
+341,15519738,Williams,826,spain,female,81,8,159758.04,2,No,Active,85350.81,Still customer
+342,15530746,Smith,431,Germany,female,79,3,238383.77,3,Yes,Inactive,84665.3,Still customer
+343,15549377,Jones,572,France,Female,71,4,220403.91,3,Yes,Inactive,66790.34,Churned
+344,15548404,Johnson,827,GERMANY,male,26,7,146124.95,1,Yes,Active,33682.67,Churned
+345,15554045,Davis,,germany,Female,,2,,3,No,Active,146843.92,Still customer
+346,15597888,Brown,772,France,male,66,4,160644.4,3,No,Inactive,129464.41,Still customer
+347,15539790,Davis,832,Spain,Male,58,2,19639.46,2,Yes,Active,79766.62,Churned
+348,15505600,Miller,751,Germany,female,34,9,,3,No,Active,94454.36,Churned
+349,15594660,Johnson,792,france,Female,38,2,23727.11,1,Yes,Inactive,41816.55,Still customer
+350,15593179,Davis,839,spain,,,2,148520.7,2,No,Inactive,86130.19,Churned
+351,15540764,Smith,452,france,Male,76,6,175660.05,2,Yes,Inactive,107295.82,Churned
+352,15574543,Brown,622,spain,Male,56,6,16631.9,1,Yes,Inactive,82123.38,Churned
+353,15545714,Williams,363,germany,female,72,6,57698.66,2,Yes,Active,148639.92,Churned
+354,15556835,Johnson,508,,male,58,9,228918.06,2,No,Inactive,95587.83,Churned
+355,15573744,smith  ,501,Germany,Female,56,7,154078.62,2,Yes,Inactive,61936.32,Churned
+356,15556491,Jones,832,Germany,female,30,4,61571.5,2,No,Inactive,118101.28,Churned
+357,15518589,Miller,457,france,Female,81,4,172669.94,1,No,Active,33864.75,Still customer
+358,15543484,Brown,537,Germany,Male,,3,149194.1,1,No,Inactive,63832.21,Still customer
+359,15582989,Johnson,650,germany,Female,36,6,125393.92,2,No,Active,58574.25,Churned
+360,15536212,johnson  ,447,France,Female,28,9,244046.74,2,No,Inactive,70452.99,Churned
+361,15543525,Williams,480,germany,female,63,3,170863.44,1,No,Inactive,119449.18,Churned
+362,15547202,Williams,642,spain,Female,62,1,93860.28,1,No,Active,77784.22,Still customer
+363,15532635,Jones,520,germany,female,18,3,200018.36,1,Yes,Inactive,121162.02,Still customer
+364,15563208,Miller,773,spain,,,7,221145.82,2,Yes,Inactive,90708.45,Churned
+365,15533828,Jones,823,Germany,female,,8,31305.14,2,Yes,Active,57889.72,Still customer
+366,15518711,Smith,532,France,female,89,2,50138.24,3,No,Inactive,123397.02,Churned
+367,15503420,Smith,820,Germany,male,,6,54056.75,1,No,Inactive,43360.55,Churned
+368,15596752,Jones,713,Spain,Female,78,8,172802.95,2,No,Inactive,41413.62,Churned
+369,15500301,Miller,388,Germany,Male,29,3,150759.89,1,No,Inactive,80630.41,Churned
+370,15545236,Jones,364,spain,female,78,9,154747.89,2,Yes,Active,46518.89,Churned
+371,15566235,Miller,725,Germany,Male,50,2,,1,No,Inactive,11272.18,Churned
+372,15554240,Miller,846,Germany,male,62,4,193977.88,2,Yes,Active,100761.65,Churned
+373,15565726,Davis,353,France,Female,86,0,31984.23,3,No,Inactive,81553.14,Still customer
+374,15510492,Brown,698,Germany,female,,2,86876.77,3,Yes,Active,72372.49,Churned
+375,15506102,Miller,819,,Female,42,7,108848.41,1,No,Inactive,145375.59,Still customer
+376,15550336,Williams,758,france,male,63,7,98990.4,2,Yes,Active,89967.89,Churned
+377,15585314,Miller,,Spain,,47,3,167327.15,2,No,Inactive,130880.42,Churned
+378,15526641,Miller,559,France,Male,64,1,222973.28,1,Yes,Active,29523.03,Still customer
+379,15534584,Miller,510,spain,female,66,7,76512.87,2,No,Active,89688.9,Still customer
+380,15532745,Davis,365,france,Male,64,7,137969.28,1,Yes,Inactive,131517.15,Churned
+381,15523093,Davis,,France,male,35,9,197352.36,2,Yes,Active,91634.81,Still customer
+382,15566105,Smith,775,France,Female,83,3,104054.51,1,No,Inactive,110521.98,Churned
+383,15551885,Davis,457,Spain,Male,85,2,42029.53,2,Yes,Inactive,62086.1,Churned
+384,15536631,Williams,731,spain,Male,50,1,118737.74,1,No,Inactive,22942.93,Still customer
+385,15572991,Williams,799,germany,Female,53,8,13805.63,2,No,Inactive,74106.04,Still customer
+386,15504014,Davis,660,germany,Male,36,0,235595.86,3,No,Inactive,65227.11,Still customer
+387,15511093,Jones,576,France,Female,45,6,18705.3,2,Yes,Active,131388.43,Still customer
+388,15518070,Brown,519,Germany,female,57,4,109614.18,1,Yes,Inactive,44159.34,Churned
+389,15535777,Davis,383,spain,Female,32,7,132470.32,3,No,Inactive,145342.79,Still customer
+390,15556958,Miller,763,france,female,58,3,246325.96,2,No,Inactive,144139.34,Still customer
+391,15582074,johnson  ,600,Germany,,56,6,41505.46,3,Yes,Inactive,44668.43,Still customer
+392,15510729,Brown,596,Germany,male,19,4,,2,Yes,Inactive,58727.27,Still customer
+393,15599713,Brown,618,spain,male,80,4,2176.54,3,Yes,Inactive,135377.8,Still customer
+394,15545017,Williams,490,France,female,46,8,38892.86,1,No,Active,145327.11,Churned
+395,15566320,Brown,623,France,female,91,8,51818.24,2,No,Active,72081.47,Churned
+396,15527751,Davis,765,,male,83,8,157645.24,2,No,Inactive,54939.59,Still customer
+397,15578069,Miller,,France,female,,5,54926.7,1,No,Active,83653.16,Still customer
+398,15554748,Miller,576,germany,Female,27,5,5130.2,3,No,Inactive,106287.69,Churned
+399,15505801,Smith,728,France,Female,31,4,206654.59,1,Yes,Inactive,48286.43,Still customer
+400,15519190,Miller,388,germany,male,68,8,91398.93,1,No,Inactive,113106.24,Churned
+401,15549689,Miller,651,germany,Male,90,9,88424.17,3,Yes,Inactive,17232.03,Churned
+402,15550993,Williams,849,France,Female,56,7,75619.76,1,Yes,Inactive,16901.23,Still customer
+403,15529592,Miller,378,SPAIN,female,45,6,243843.32,2,No,Active,64080.28,Churned
+404,15510647,Smith,795,france,Male,20,6,42528.85,2,Yes,Active,59486.25,Still customer
+405,15508716,Johnson,846,Germany,Male,87,5,224559.52,2,No,Active,54188.65,Still customer
+406,15588891,Davis,826,germany,Female,44,4,194200.83,1,Yes,Active,78742.77,Churned
+407,15587545,Williams,667,spain,Female,19,3,19119.99,2,No,Inactive,54902.7,Churned
+408,15589912,Johnson,594,spain,Male,55,2,246682.28,2,No,Active,36916.11,Still customer
+409,15570316,Williams,585,france,Male,20,2,67841.49,2,Yes,Inactive,53325.74,Churned
+410,15502368,Jones,534,spain,male,33,5,24645.73,2,No,Active,146486.6,Still customer
+411,15577575,Brown,621,Spain,female,57,3,207328.56,2,Yes,Active,67555.88,Churned
+412,15506655,Jones,789,spain,male,19,5,176668.88,2,No,Active,72259.79,Churned
+413,15570031,Miller,585,Germany,Female,58,2,154304.7,1,No,Active,90716.3,Still customer
+414,15576429,Johnson,588,,male,,3,38995.22,2,No,Inactive,147667.71,Still customer
+415,15591083,Miller,726,germany,male,52,8,,2,Yes,Active,43824.18,Still customer
+416,15587922,Brown,615,France,male,82,4,195139.01,3,Yes,Active,105379.5,Churned
+417,15555766,Williams,763,Spain,male,72,6,75905.98,1,No,Inactive,110237.86,Still customer
+418,15513403,Brown,758,germany,female,62,9,77922.46,1,Yes,Inactive,95025.42,Still customer
+419,15532097,Smith,708,Spain,female,79,1,785.23,1,No,Active,22400.97,Churned
+420,15578657,Brown,689,France,Male,66,4,43560.85,1,Yes,Inactive,104762.12,Churned
+421,15510966,Smith,738,spain,Female,42,8,218851.41,2,Yes,Inactive,18973.26,Still customer
+422,15599157,Brown,414,spain,male,40,2,110436.62,2,No,Inactive,93459.97,Still customer
+423,15593848,Davis,827,France,Male,41,8,246058.62,3,No,Active,113541.36,Still customer
+424,15552921,Smith,526,germany,Male,55,5,98926.99,3,No,Inactive,39535.78,Still customer
+425,15549726,Johnson,352,France,Male,45,3,178796.61,1,No,Active,127827.08,Churned
+426,15550300,Miller,778,france,,38,6,70479.76,3,No,Active,14249.53,Churned
+427,15522677,Miller,491,Germany,male,71,7,90952.41,3,Yes,Active,128133.8,Still customer
+428,15555609,Jones,725,germany,male,35,5,47681.5,1,Yes,Active,74446.07,Still customer
+429,15596825,Miller,507,Spain,Female,53,4,86765.59,1,No,Inactive,40462.31,Still customer
+430,15556661,Williams,847,france,male,62,5,136809.38,3,No,Active,28728.94,Churned
+431,15531024,Davis,673,germany,male,90,4,247943.22,2,No,Inactive,143463,Still customer
+432,15570313,Brown,495,France,Male,70,7,166050.43,3,Yes,Active,20173.18,Still customer
+433,15553006,Jones,795,France,Female,47,0,49811.49,3,No,Inactive,37873.08,Churned
+434,15595285,williams  ,642,France,male,77,6,11240.36,2,No,Active,58695.13,Churned
+435,15515338,Williams,502,France,female,49,9,31589.12,2,Yes,Inactive,96832.88,Still customer
+436,15568027,Smith,781,Spain,male,84,9,140638.8,1,Yes,Active,86272.15,Still customer
+437,15592772,miller  ,542,france,Male,84,1,,1,Yes,Active,27590.09,Churned
+438,15580135,Johnson,786,spain,female,45,8,235104.8,3,Yes,Inactive,50561.92,Still customer
+439,15519508,Johnson,843,Germany,Male,61,0,3955.79,2,No,Active,43425.25,Still customer
+440,15503051,Jones,812,Spain,male,58,9,130690.04,1,Yes,Active,39896,Churned
+441,15548747,Davis,422,Spain,female,80,5,117716.84,3,Yes,Active,67560.21,Churned
+442,15587142,Johnson,748,SPAIN,Female,40,8,164013.76,2,No,Inactive,108564.4,Churned
+443,15587235,Brown,654,spain,Female,65,0,139894.71,3,No,Active,40443.41,Still customer
+444,15554021,Johnson,726,Germany,female,49,3,171759.79,1,No,Active,61335.04,Churned
+445,15566412,Jones,693,Germany,female,74,3,164520.65,1,Yes,Inactive,64728.44,Churned
+446,15558335,Johnson,801,spain,Male,50,8,29252.93,2,No,Inactive,146703.91,Still customer
+447,15556179,Brown,489,France,female,,4,199929.48,3,Yes,Inactive,143653.29,Still customer
+448,15532093,Smith,536,Spain,Male,56,4,30808.14,2,Yes,Inactive,122019.26,Churned
+449,15569678,Davis,642,germany,male,51,5,174632.66,1,Yes,Inactive,43832.25,Churned
+450,15580738,Jones,410,Germany,,73,0,104036.34,1,No,Active,19525.22,Still customer
+451,15539734,Smith,834,Germany,female,45,0,128462.68,3,Yes,Active,54366.58,Still customer
+452,15572615,Smith,,spain,female,54,8,225824.5,3,No,Active,47351.24,Churned
+453,15573523,Smith,,FRANCE,male,24,2,222470.93,3,No,Inactive,80829.61,Churned
+454,15594476,Williams,547,germany,female,85,3,204464.08,2,No,Active,118881.91,Still customer
+455,15517019,Davis,644,germany,female,54,0,127537.1,3,Yes,Inactive,130165.21,Churned
+456,15583613,Miller,789,Germany,Female,73,8,184059.95,3,Yes,Inactive,128280.97,Still customer
+457,15591794,Davis,,France,Female,82,7,128224.26,1,Yes,Active,60354.58,Churned
+458,15586672,Williams,651,,male,82,1,217401.52,1,No,Inactive,106212.81,Still customer
+459,15573847,Miller,693,germany,Male,64,7,100693.96,3,Yes,Inactive,53796.79,Still customer
+460,15582750,Davis,360,Germany,Female,37,6,242558.84,3,Yes,Active,18526.78,Churned
+461,15579634,Smith,411,germany,Male,36,5,233080.69,1,Yes,Inactive,108219.14,Churned
+462,15528251,Jones,682,france,female,46,0,185400.65,3,Yes,Inactive,11375.86,Still customer
+463,15525945,Miller,575,france,Female,91,6,69853.97,2,Yes,Active,67285.56,Churned
+464,15590852,Brown,502,Spain,male,77,9,,2,No,Inactive,56113.1,Churned
+465,15532217,Brown,548,spain,male,35,6,213675.86,2,No,Inactive,107072.86,Churned
+466,15508308,johnson  ,401,spain,male,52,8,41325.57,3,No,Active,117274.37,Still customer
+467,15505949,Miller,609,Germany,Female,60,0,213565.2,1,No,Active,52573.25,Churned
+468,15551990,Jones,408,france,Male,28,1,122691.25,3,Yes,Active,123627.78,Churned
+469,15501150,Williams,421,Spain,female,66,8,101639.2,3,No,Active,51148.35,Still customer
+470,15589480,Smith,497,Spain,Male,55,8,225797.69,1,Yes,Inactive,72485.69,Churned
+471,15574740,Johnson,698,germany,Male,81,5,150962.75,1,No,Inactive,111782.59,Churned
+472,15566617,Brown,412,germany,female,86,5,144153.5,1,No,Active,107008.83,Still customer
+473,15594841,Williams,659,Spain,female,25,3,139691.49,2,No,Inactive,148231.59,Still customer
+474,15516896,Williams,722,germany,Female,51,3,92792.38,3,Yes,Inactive,41522.54,Churned
+475,15546175,Smith,592,france,Female,65,4,196410.78,1,Yes,Active,102724.51,Churned
+476,15507805,Miller,842,France,Female,73,2,63199.61,3,No,Active,95355.47,Still customer
+477,15505237,Brown,715,france,Female,82,0,234723.74,2,Yes,Inactive,138113.78,Still customer
+478,15520056,Jones,679,Spain,Female,48,0,,2,No,Active,31890.7,Churned
+479,15545543,Williams,456,Spain,female,21,6,84370.08,1,No,Active,115251.74,Churned
+480,15556556,Smith,575,france,Male,67,0,182365.94,1,No,Active,89557.61,Churned
+481,15503343,Jones,662,germany,,86,0,143305.8,3,Yes,Inactive,48453.22,Still customer
+482,15513500,Miller,,germany,Female,47,2,84412.33,1,No,Active,76420.89,Churned
+483,15553222,Brown,774,spain,Male,76,9,247130.41,3,No,Inactive,56728.72,Still customer
+484,15529375,Miller,590,Spain,Female,84,3,6309.34,1,No,Inactive,91103.88,Still customer
+485,15509662,Williams,608,Germany,Male,62,3,63161.51,3,Yes,Inactive,134460.09,Still customer
+486,15516964,Jones,725,spain,Male,21,1,130018.52,3,No,Active,89702.7,Churned
+487,15559638,Jones,611,germany,female,43,0,130488.25,3,Yes,Active,98441.14,Churned
+488,15573666,Jones,354,france,male,44,2,147233.27,3,No,Active,82624.7,Churned
+489,15585067,Williams,610,germany,female,63,3,,2,Yes,Active,17163.17,Still customer
+490,15567215,Williams,403,france,male,81,2,155869.46,3,No,Active,42600.2,Churned
+491,15569042,Miller,396,spain,male,68,7,150070.37,1,No,Inactive,78880.24,Still customer
+492,15513284,Johnson,,Spain,male,67,9,13378.62,2,Yes,Inactive,53432.94,Still customer
+493,15572789,Miller,,germany,,23,0,94132.57,2,Yes,Inactive,35446.9,Still customer
+494,15584664,Brown,358,france,female,76,1,58013.93,3,No,Active,80578.6,Still customer
+495,15593468,Smith,448,Spain,male,32,6,66342.53,2,Yes,Inactive,55193.37,Still customer
+496,15561389,Jones,369,Germany,Male,47,3,138584.37,3,No,Inactive,46135.07,Still customer
+497,15509435,Johnson,727,france,Female,59,7,49876.33,1,No,Active,74957.96,Churned
+498,15554340,Smith,590,spain,female,,2,73487.28,3,No,Active,28659.8,Still customer
+499,15544078,Johnson,410,Germany,male,59,5,59271.18,2,Yes,Inactive,139884.4,Churned
+500,15578832,Davis,728,Germany,Male,52,8,237125.74,1,No,Inactive,131478.29,Still customer
+501,15551293,Miller,839,France,female,23,0,236166.43,3,Yes,Active,109066.88,Churned
+502,15595981,Williams,768,germany,female,85,0,152485.39,1,No,Active,24869.94,Churned
+503,15578781,Jones,527,france,Female,35,7,231130.62,1,Yes,Active,118622.82,Churned
+504,15560403,Miller,687,Germany,female,90,2,196453.16,2,Yes,Active,123114.03,Churned
+505,15529124,Smith,411,,Female,,4,147486.97,1,No,Inactive,117487.05,Still customer
+506,15595435,Davis,494,spain,male,76,0,1608.8,2,Yes,Inactive,25955.22,Still customer
+507,15543919,Davis,565,Spain,Female,64,4,193129.07,1,No,Active,100147.11,Still customer
+508,15535247,Davis,352,france,Male,34,5,175622.09,3,No,Inactive,126805.47,Still customer
+509,15594758,Smith,509,Germany,Female,39,7,153813.41,1,No,Inactive,90829.48,Churned
+510,15591747,Smith,576,GERMANY,Male,85,2,190106.08,3,No,Active,100497.03,Churned
+511,15562752,Smith,835,France,Female,86,2,128230.54,3,No,Inactive,74170.89,Churned
+512,15556573,Smith,618,Germany,female,54,9,176020.82,1,Yes,Inactive,84019.02,Still customer
+513,15559101,Davis,469,germany,male,66,8,233793.02,3,No,Inactive,14812.76,Churned
+514,15526646,Davis,730,Germany,Male,30,3,93951.25,1,Yes,Active,99454.82,Still customer
+515,15523049,Johnson,844,france,Female,51,3,,1,Yes,Active,21402.61,Churned
+516,15579605,Miller,438,france,Female,,6,118921.95,3,No,Inactive,70902.04,Churned
+517,15598116,Jones,678,france,Female,68,1,168599.91,3,Yes,Active,50971.71,Churned
+518,15597379,Williams,417,spain,female,20,7,190723.33,2,No,Active,86359.91,Churned
+519,15568385,Davis,747,spain,female,59,5,,3,Yes,Active,28678.29,Churned
+520,15540158,Williams,706,,Male,49,2,161650.11,2,Yes,Inactive,106830.08,Still customer
+521,15565417,Miller,447,france,Male,68,8,,3,Yes,Inactive,121301.62,Churned
+522,15523289,Miller,616,germany,female,63,4,167508.13,1,No,Active,32869.62,Still customer
+523,15509823,Williams,454,Germany,Male,38,7,117082.55,3,Yes,Inactive,24603.83,Still customer
+524,15560160,Davis,789,Spain,male,61,6,193388.19,1,No,Inactive,30372.17,Still customer
+525,15541975,Williams,,germany,male,28,7,,1,Yes,Inactive,132797.86,Still customer
+526,15509540,Johnson,472,spain,female,85,6,156580.59,1,Yes,Inactive,83946.5,Still customer
+527,15516364,Brown,825,spain,,18,2,69617.68,2,Yes,Inactive,75416.54,Still customer
+528,15504611,Davis,378,germany,Female,80,1,213245.5,3,Yes,Active,24939.65,Still customer
+529,15527663,Davis,486,spain,male,41,6,,1,No,Inactive,100937.84,Still customer
+530,15551991,Jones,544,france,female,30,2,249099.57,1,No,Inactive,131519.94,Churned
+531,15557679,Smith,758,France,Male,28,2,199001.85,2,Yes,Inactive,125946.02,Churned
+532,15530977,Brown,575,Germany,female,68,1,188433.52,3,Yes,Active,97647.66,Still customer
+533,15594704,Miller,681,France,Female,34,3,53875.19,3,No,Active,20539.02,Still customer
+534,15549115,Davis,519,Germany,male,41,7,84001.76,2,No,Active,25735.58,Still customer
+535,15591007,Williams,358,Germany,female,36,0,116420.64,2,No,Inactive,16903.26,Churned
+536,15588223,Brown,812,France,female,54,0,193345.26,3,No,Active,46047.09,Churned
+537,15560890,Jones,389,germany,female,25,4,228741.47,2,Yes,Active,28992.61,Still customer
+538,15566387,Miller,374,Germany,Female,45,4,47284.78,3,Yes,Active,46406.73,Still customer
+539,15518071,Smith,610,France,,22,0,230591.87,3,No,Active,63908.13,Churned
+540,15559275,Smith,744,Germany,Female,34,5,173906.16,1,No,Inactive,142017.59,Churned
+541,15572369,Jones,792,Spain,Female,53,0,152692.68,1,No,Active,95452.65,Still customer
+542,15511938,Jones,575,germany,Female,36,4,49960.32,3,No,Active,126896.33,Still customer
+543,15535195,Williams,821,france,male,,8,13881.26,3,No,Inactive,109449.21,Still customer
+544,15591680,Davis,,Germany,male,28,4,142116.22,3,No,Inactive,25750.44,Still customer
+545,15504000,Smith,812,Spain,female,71,5,162878.92,3,Yes,Active,113028.86,Churned
+546,15570588,Miller,387,france,female,62,7,52695.36,3,Yes,Inactive,48513.84,Churned
+547,15593610,Brown,,,male,64,0,139114.05,3,Yes,Active,99475.1,Still customer
+548,15597856,Miller,600,Germany,Male,29,1,214123.35,2,No,Inactive,57734.68,Still customer
+549,15538304,Johnson,738,France,male,38,8,208766.49,3,No,Inactive,149674.12,Still customer
+550,15569449,Johnson,525,Germany,Female,28,2,231838.8,2,No,Active,46897.21,Churned
+551,15582986,Jones,439,Spain,male,22,5,91471.45,2,Yes,Inactive,49078.27,Still customer
+552,15589643,williams  ,751,france,Female,73,4,79512.39,3,No,Active,140294.12,Still customer
+553,15520764,Johnson,803,Germany,female,37,1,,3,No,Inactive,13450.22,Still customer
+554,15586027,Smith,386,France,Male,58,6,,2,Yes,Active,107536.46,Churned
+555,15538494,Miller,665,Germany,female,63,3,21887.17,2,No,Inactive,111545.69,Still customer
+556,15503373,Miller,525,germany,Female,,0,70700.28,3,Yes,Inactive,127093,Churned
+557,15512161,Jones,810,France,Female,87,3,104645.57,3,Yes,Inactive,146421.5,Still customer
+558,15597532,Davis,,Spain,,34,5,73129.11,2,No,Inactive,146584.27,Still customer
+559,15592658,Davis,802,france,Male,36,6,83051.39,2,Yes,Inactive,19138.75,Still customer
+560,15527350,Brown,810,GERMANY,male,43,6,73443.98,2,No,Active,125057.51,Churned
+561,15593008,Jones,430,France,,65,6,10374.79,1,Yes,Inactive,100483.39,Still customer
+562,15594297,Brown,463,germany,female,69,2,159273.68,2,No,Active,100627.9,Still customer
+563,15525351,Davis,389,France,male,87,5,149323.11,1,Yes,Active,27968.99,Churned
+564,15588668,Jones,650,spain,female,72,7,163345.87,3,No,Active,101026.2,Churned
+565,15515305,Jones,573,,Male,50,3,48077.47,3,Yes,Inactive,147547.56,Churned
+566,15575353,Jones,667,Spain,female,79,7,73913.64,2,Yes,Active,137654.6,Still customer
+567,15576797,Davis,698,france,Female,40,1,154903.98,3,Yes,Inactive,71478.29,Churned
+568,15565953,Brown,464,Spain,,32,9,149906.89,3,No,Active,15592.72,Still customer
+569,15557458,Brown,535,GERMANY,Male,44,8,126582.58,3,No,Active,60721.09,Churned
+570,15520358,Jones,672,France,male,81,8,,3,Yes,Active,125694.64,Churned
+571,15503267,Johnson,405,spain,Male,68,7,228232.75,1,No,Active,108209.87,Churned
+572,15582745,Williams,389,germany,Female,70,9,84942.56,1,Yes,Active,74308.11,Still customer
+573,15589588,Davis,703,germany,male,68,9,113904.79,2,No,Inactive,17714.21,Still customer
+574,15538513,Williams,389,France,female,64,0,169528.46,2,Yes,Active,69765.26,Still customer
+575,15526092,Williams,696,spain,Male,21,1,135755.36,2,No,Active,75663.49,Still customer
+576,15511338,Brown,810,France,male,,5,86721.49,3,Yes,Inactive,139997.77,Still customer
+577,15500412,Brown,586,Germany,female,52,9,108911.2,3,Yes,Inactive,99752.05,Still customer
+578,15507543,johnson  ,638,Spain,male,65,4,198620.2,1,Yes,Inactive,53631.41,Still customer
+579,15533496,Williams,611,germany,male,90,8,69532.29,1,Yes,Active,83544.56,Still customer
+580,15560692,Williams,565,Germany,male,89,4,35563.81,2,No,Active,19247.74,Still customer
+581,15589084,Jones,496,Spain,Male,62,1,78290.8,1,Yes,Active,146159.55,Churned
+582,15592920,brown  ,685,Germany,female,89,9,212383.55,1,No,Active,60408.39,Churned
+583,15544425,Williams,517,spain,Female,36,3,22247.43,1,No,Active,76901.43,Still customer
+584,15538756,Miller,441,,Male,80,8,247924.02,1,Yes,Active,59739.76,Still customer
+585,15518888,Johnson,702,France,Male,55,0,135250.72,1,No,Inactive,105551.64,Still customer
+586,15535735,Miller,408,France,Male,84,0,246211.44,2,No,Inactive,102712.5,Still customer
+587,15547295,Miller,408,Spain,Female,76,6,234749.11,2,No,Active,110145.12,Churned
+588,15583042,Davis,653,france,,86,2,113203.43,1,Yes,Active,47540.05,Churned
+589,15585999,Davis,518,spain,female,30,9,49622.77,2,No,Active,54193.59,Still customer
+590,15517955,Johnson,618,Spain,female,64,1,41221.19,3,No,Active,27535.17,Churned
+591,15537841,Miller,712,france,male,78,8,59997.34,1,Yes,Active,101771.4,Churned
+592,15570640,Williams,394,Germany,male,48,2,177533.16,3,Yes,Inactive,15571.6,Still customer
+593,15565510,Brown,694,spain,male,39,1,68237.5,2,No,Inactive,93675.53,Still customer
+594,15534911,Johnson,530,Germany,Female,60,7,85356.32,2,Yes,Active,131757.42,Still customer
+595,15559031,Jones,519,germany,male,,9,112194.7,3,No,Inactive,134716.5,Still customer
+596,15588726,Miller,705,spain,Female,71,5,228308.17,2,No,Active,72865.29,Churned
+597,15507357,Johnson,540,france,female,27,5,,1,No,Active,74302.52,Still customer
+598,15532479,Smith,504,germany,male,59,9,,3,Yes,Active,20775.69,Churned
+599,15561476,Smith,771,France,male,81,6,15024.1,1,No,Inactive,103907.1,Still customer
+600,15544811,Davis,537,france,Male,38,6,226191.59,3,Yes,Inactive,124976.32,Churned
+601,15536208,Brown,356,Spain,,83,5,161879.12,2,Yes,Active,44251.71,Still customer
+602,15520150,Williams,482,France,female,58,3,68260.15,3,No,Inactive,68982.12,Still customer
+603,15571180,Brown,584,France,Male,41,8,44298.13,3,Yes,Inactive,127437.51,Churned
+604,15543286,Brown,394,Spain,Male,,5,73566.68,1,Yes,Active,132796.87,Churned
+605,15568450,Brown,663,spain,female,73,3,28699.23,2,Yes,Inactive,44045.2,Churned
+606,15521352,Brown,598,France,Male,47,2,235383.23,1,Yes,Inactive,87079.89,Still customer
+607,15555069,Jones,848,france,,74,3,196051.54,2,Yes,Active,36949.04,Churned
+608,15514397,Jones,380,germany,Female,64,2,115597.79,1,No,Active,24263.03,Churned
+609,15541555,Davis,372,France,male,52,1,216240.65,3,Yes,Inactive,137556.87,Churned
+610,15546959,Johnson,775,france,Male,36,4,62364.55,1,No,Active,124871.05,Churned
+611,15500728,Smith,743,Germany,male,25,1,,2,No,Inactive,116404.89,Churned
+612,15550517,Brown,509,france,Male,43,5,214033.12,2,No,Active,16827.28,Churned
+613,15566234,Davis,712,germany,Female,88,2,89192.18,3,No,Active,128122.03,Churned
+614,15539954,Johnson,786,france,Female,47,5,189366.11,2,No,Active,71326.17,Churned
+615,15547280,Smith,507,,Female,24,9,73768.09,1,No,Active,57935.32,Churned
+616,15579459,Miller,388,germany,Male,84,8,74714.28,3,Yes,Inactive,86506.69,Still customer
+617,15516779,Williams,764,spain,Female,82,0,26764.29,2,Yes,Active,22789.45,Still customer
+618,15563932,Jones,431,Germany,Male,53,5,110014.51,2,Yes,Active,115930.52,Churned
+619,15572936,Miller,705,Spain,male,42,8,182427.98,1,No,Active,91540.91,Still customer
+620,15524466,Smith,607,spain,Male,54,3,235055.2,1,Yes,Inactive,36122.61,Still customer
+621,15536939,Miller,,france,male,18,1,150949.25,3,Yes,Inactive,36352.51,Churned
+622,15569896,Williams,426,germany,Male,32,3,215783.88,2,Yes,Active,35794.81,Churned
+623,15535270,Davis,826,Germany,male,54,0,205623.66,1,No,Active,17980.33,Churned
+624,15559163,Smith,361,Spain,,30,2,43335.76,3,Yes,Active,92291.78,Churned
+625,15582637,Miller,644,SPAIN,male,25,9,121454.36,2,No,Active,127648.74,Churned
+626,15551934,Jones,799,spain,Female,22,8,29230.88,2,Yes,Active,12449.75,Churned
+627,15564895,Jones,573,Germany,Female,77,9,170538.29,3,No,Active,16860.65,Still customer
+628,15532307,Johnson,362,france,male,90,4,237474.92,3,No,Inactive,90187.84,Churned
+629,15554098,Miller,395,Germany,Male,18,5,34272.36,1,No,Active,124729.4,Still customer
+630,15560921,Brown,504,spain,Male,53,2,183470.78,2,Yes,Active,55743.44,Churned
+631,15505486,Miller,462,FRANCE,female,52,4,158059.54,2,Yes,Active,58946.02,Churned
+632,15508335,Davis,582,Spain,Male,83,7,145901.26,2,No,Active,93488.51,Still customer
+633,15586900,Smith,366,Germany,female,80,5,97530.06,3,Yes,Active,48389.8,Churned
+634,15589112,Smith,709,,Male,40,3,,1,No,Active,13725.17,Churned
+635,15597203,Davis,572,,Male,26,1,11312.3,2,No,Inactive,112931.99,Still customer
+636,15511130,Miller,703,spain,Female,51,8,54477.18,3,Yes,Inactive,97590.99,Churned
+637,15587508,Davis,537,france,female,63,0,3794.22,2,Yes,Inactive,91305.84,Still customer
+638,15560566,Williams,797,,Male,21,0,145354.28,1,Yes,Inactive,113835.78,Churned
+639,15566703,Davis,693,france,female,47,3,26463.31,2,No,Inactive,104532.32,Churned
+640,15527192,Jones,714,germany,Female,89,6,218254.85,1,No,Inactive,38823.48,Still customer
+641,15501062,Davis,512,germany,Female,20,0,130785.76,1,Yes,Active,59347.35,Churned
+642,15584076,Smith,845,germany,female,31,8,174922.48,2,No,Active,27655.42,Still customer
+643,15589780,Jones,675,France,Female,77,3,102714.27,2,Yes,Active,28179.98,Still customer
+644,15521545,Smith,816,Germany,male,62,2,140144.95,1,No,Active,104667.4,Still customer
+645,15521689,Johnson,763,spain,male,51,0,235664.79,3,Yes,Active,130204.01,Churned
+646,15511174,Brown,804,spain,Female,62,9,20683.51,1,Yes,Active,144782.56,Churned
+647,15588461,Smith,423,France,male,78,3,63484.44,2,No,Inactive,97968.6,Still customer
+648,15509348,Jones,582,france,Male,33,8,194997.08,2,Yes,Active,35774.19,Churned
+649,15523714,Johnson,573,France,female,83,9,24684.3,3,Yes,Inactive,24791.05,Churned
+650,15538102,Smith,831,france,Male,57,5,18915.28,1,No,Inactive,123799.14,Churned
+651,15574460,Williams,668,france,female,34,5,90385.35,1,Yes,Active,91025.91,Still customer
+652,15589930,Davis,761,Spain,Female,51,0,23041.99,1,No,Active,96559.9,Churned
+653,15506801,Brown,409,spain,Male,33,9,146269.61,2,Yes,Active,119404.69,Still customer
+654,15572267,Smith,684,germany,Female,77,1,56568.81,1,No,Active,108458.81,Churned
+655,15548136,Johnson,571,france,Female,83,5,223924.49,3,Yes,Active,126824.16,Churned
+656,15523625,Williams,386,,female,83,1,195875.02,2,Yes,Active,17869.95,Still customer
+657,15582873,Miller,826,spain,female,,2,174926.3,2,Yes,Active,114652.89,Churned
+658,15572592,Johnson,627,germany,female,73,3,154236.01,1,Yes,Inactive,129119.39,Still customer
+659,15577052,Davis,545,france,Male,48,4,215866.43,3,No,Active,50058.91,Churned
+660,15544261,Johnson,753,france,male,51,8,55765.52,2,No,Active,99662.62,Still customer
+661,15501542,Williams,701,France,female,56,3,218277.21,2,No,Inactive,53982.69,Churned
+662,15521677,Johnson,833,France,female,84,8,197373.07,1,No,Active,144115.95,Churned
+663,15546732,Williams,591,spain,Male,25,9,187040.21,1,No,Active,14679.3,Churned
+664,15550343,Smith,673,germany,female,72,2,140313.92,3,No,Inactive,91171,Still customer
+665,15539081,Williams,568,france,,44,7,61561.04,1,No,Active,33310.5,Still customer
+666,15562856,Williams,541,spain,Female,70,0,105886.98,3,Yes,Active,109710.83,Still customer
+667,15593105,Brown,366,spain,female,56,8,198392.66,2,Yes,Active,34624.64,Churned
+668,15588858,Williams,361,Germany,female,,8,7944.62,3,Yes,Active,42953.66,Still customer
+669,15519065,Williams,,France,,34,9,195512.69,3,Yes,Active,79211.91,Still customer
+670,15583460,Miller,750,germany,,47,1,60017.69,3,No,Active,138076.89,Still customer
+671,15588092,smith  ,743,france,Female,70,3,36077.3,2,No,Inactive,39640.01,Still customer
+672,15554693,Davis,723,spain,female,30,7,28925.33,1,No,Active,30193.6,Still customer
+673,15526962,Brown,542,france,male,38,6,6812.5,2,Yes,Active,116256.76,Still customer
+674,15528295,Miller,371,Germany,male,36,0,130896.62,1,No,Inactive,80086.73,Still customer
+675,15513807,Jones,823,germany,male,70,4,54564.97,3,Yes,Inactive,137649.92,Still customer
+676,15542348,Smith,469,spain,female,36,6,,3,No,Active,30526.04,Still customer
+677,15526432,Smith,559,france,Female,74,3,143609.19,3,No,Inactive,100429.91,Still customer
+678,15583285,Jones,,France,female,42,0,34471.32,3,No,Active,42603.08,Churned
+679,15591792,Davis,619,Germany,Female,48,8,,3,No,Active,31946.46,Churned
+680,15557854,Williams,541,germany,female,72,4,224435.89,1,Yes,Inactive,105680.12,Still customer
+681,15540262,Miller,524,Germany,female,,1,186294.87,1,Yes,Active,93115.85,Churned
+682,15537080,Johnson,634,France,Female,49,7,19109.97,3,No,Active,115675.84,Churned
+683,15501324,Brown,553,germany,male,79,1,223971.05,2,Yes,Inactive,53324.76,Still customer
+684,15591267,Johnson,513,Germany,Female,91,2,198482.35,2,No,Inactive,72716.03,Still customer
+685,15535909,Jones,600,,Male,27,9,39575.98,3,No,Inactive,66766.03,Still customer
+686,15589339,Smith,576,France,Male,89,0,12946.47,1,No,Inactive,147772.52,Churned
+687,15519870,Davis,785,France,Female,71,1,,2,No,Active,50914.85,Still customer
+688,15534578,smith  ,730,France,female,69,6,39008.95,2,Yes,Inactive,51274.41,Churned
+689,15572124,Brown,809,Spain,Male,37,9,208647.74,2,No,Inactive,59636.75,Still customer
+690,15526790,Smith,356,Spain,Male,49,1,89583.66,3,No,Inactive,89043.17,Churned
+691,15525289,Smith,378,france,female,31,5,228223.11,2,Yes,Inactive,45325.18,Churned
+692,15555129,Brown,744,spain,female,67,2,141422.04,2,No,Inactive,138140.59,Still customer
+693,15593714,miller  ,382,Germany,male,45,3,,2,Yes,Active,47195.98,Still customer
+694,15594246,Miller,483,FRANCE,female,70,7,34899.72,2,No,Inactive,135414.2,Churned
+695,15515485,Brown,716,Germany,Female,41,2,144118.11,1,No,Active,24486.51,Churned
+696,15544482,Davis,428,spain,Female,39,9,190470.9,3,No,Inactive,101918.78,Still customer
+697,15586188,Jones,765,SPAIN,male,47,5,195376.41,3,No,Inactive,136977.97,Still customer
+698,15504748,Smith,784,spain,Male,80,0,68939.35,1,No,Inactive,33624.92,Churned
+699,15586769,Davis,808,Spain,,,6,51061.69,1,No,Inactive,145565.77,Still customer
+700,15509435,Smith,407,spain,female,76,7,4189.08,3,Yes,Inactive,73403.67,Churned
+159,15575450,Johnson,627,france,male,20,4,136396.3,3,No,Active,89158.23,Churned
+501,15551293,miller  ,839,FRANCE,female,23,0,236166.43,3,Yes,Active,109066.88,Churned
+397,15578069,Miller,,France,female,,5,54926.7,1,No,Active,83653.16,Still customer
+156,15555820,Brown,708,Spain,Female,83,6,45430.82,2,Yes,Active,38494.88,Still customer
+322,15558871,Davis,548,germany,Female,25,3,243561.91,1,No,Active,145318.18,Still customer
+213,15567172,Jones,659,france,Female,76,9,149942.83,3,Yes,Active,18034.86,Churned
+235,15567863,Davis,460,spain,female,88,5,205941.85,1,Yes,Inactive,131011.28,Still customer
+290,15515151,Brown,660,France,,32,7,234603.44,1,No,Inactive,116664.59,Still customer
+301,15553351,Jones,430,Spain,female,21,1,217102.7,1,Yes,Active,144688.19,Still customer
+357,15518589,Miller,457,france,Female,81,4,172669.94,1,No,Active,33864.75,Still customer
+674,15528295,Miller,371,Germany,male,36,0,130896.62,1,No,Inactive,80086.73,Still customer
+329,15570091,Davis,740,germany,female,73,3,10585.57,1,Yes,Active,142771.74,Still customer
+200,15561087,Johnson,658,germany,female,55,4,64557.75,2,Yes,Active,55670.87,Still customer
+79,15540397,Jones,437,France,female,42,4,107402.15,1,No,Active,17384.15,Still customer
+600,15544811,Davis,537,france,Male,38,6,226191.59,3,Yes,Inactive,124976.32,Churned
+571,15503267,Johnson,405,spain,Male,68,7,228232.75,1,No,Active,108209.87,Churned
+447,15556179,Brown,489,France,female,,4,199929.48,3,Yes,Inactive,143653.29,Still customer
+508,15535247,Davis,352,france,Male,34,5,175622.09,3,No,Inactive,126805.47,Still customer
+628,15532307,Johnson,362,france,male,90,4,237474.92,3,No,Inactive,90187.84,Churned
+500,15578832,Davis,728,Germany,Male,52,8,237125.74,1,No,Inactive,131478.29,Still customer
